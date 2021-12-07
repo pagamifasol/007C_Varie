@@ -1,0 +1,191 @@
+ 
+************************************************************************************
+    07/03/2019                                                   15:30:02
+      LOTUS SUSPENSION ANALYSIS v5.01
+ 
+************************************************************************************
+ 
+     FRONT SUSPENSION       FILENAME: SCG004C_Front_R03.shk
+ 
+     TYPE 6 Double Wishbone, damper to upper wishbone
+ 
+                             STATIC VALUES
+         X         Y         Z
+      (mm)      (mm)      (mm)
+   -100.00   -450.00   -137.00    POINT:1          Lower wishbone front pivot
+    210.00   -450.00   -133.00    POINT:2          Lower wishbone rear pivot
+    -17.00   -784.50   -121.00    POINT:3          Lower wishbone outer ball joint
+    -50.00   -550.00    158.00    POINT:4          Upper wishbone front pivot
+    170.00   -550.00    132.00    POINT:5          Upper wishbone rear pivot
+     10.00   -726.00    186.50    POINT:6          Upper wishbone outer ball joint
+     20.70   -550.00    279.50    POINT:7          Damper wishbone end
+     15.90   -212.50    238.30    POINT:8          Damper body end
+   -125.00   -760.50    202.00    POINT:9          Outer track rod ball joint
+   -115.00   -554.00    160.00    POINT:10         Inner track rod ball joint
+     15.90   -212.50    238.30    POINT:11         Upper spring pivot point
+     20.70   -550.00    279.50    POINT:12         Lower spring pivot point
+      0.00   -785.08     50.56    POINT:13         Wheel spindle point
+      0.00   -825.00     53.00    POINT:14         Wheel centre point
+   4030.00   -440.00    195.00    POINT:15         Part 1 C of G
+   4170.00   -520.00    450.00    POINT:16         Part 2 C of G
+   4230.00   -525.00    220.00    POINT:17         Part 3 C of G
+   4130.00   -720.00    275.00    POINT:18         Part 4 C of G
+   -100.00    450.00   -137.00    POINT:201        Lower wishbone front pivot(2)
+    210.00    450.00   -133.00    POINT:202        Lower wishbone rear pivot(2)
+    -17.00    784.50   -121.00    POINT:203        Lower wishbone outer ball joint(2)
+    -50.00    550.00    158.00    POINT:204        Upper wishbone front pivot(2)
+    170.00    550.00    132.00    POINT:205        Upper wishbone rear pivot(2)
+     10.00    726.00    186.50    POINT:206        Upper wishbone outer ball joint(2)
+     20.70    550.00    279.50    POINT:207        Damper wishbone end(2)
+     15.90    212.50    238.30    POINT:208        Damper body end(2)
+   -125.00    760.50    202.00    POINT:209        Outer track rod ball joint(2)
+   -115.00    554.00    160.00    POINT:210        Inner track rod ball joint(2)
+     15.90    212.50    238.30    POINT:211        Upper spring pivot point(2)
+     20.70    550.00    279.50    POINT:212        Lower spring pivot point(2)
+      0.00    785.08     50.56    POINT:213        Wheel spindle point(2)
+      0.00    825.00     53.00    POINT:214        Wheel centre point(2)
+   4030.00    440.00    195.00    POINT:215        Part 1 C of G(2)
+   4170.00    520.00    450.00    POINT:216        Part 2 C of G(2)
+   4230.00    525.00    220.00    POINT:217        Part 3 C of G(2)
+   4130.00    720.00    275.00    POINT:218        Part 4 C of G(2)
+     10.00   -625.00    180.00    POINT:37         Roll Bar Attachment 1
+     10.00    625.00    180.00    POINT:38         Roll Bar Attachment 2
+    -60.00   -550.00    -80.00    POINT:39         Roll Bar to Link1
+    -60.00    550.00    -80.00    POINT:40         Roll Bar to Link2
+   -170.00   -540.00   -120.00    POINT:41         Roll Bar Mount 1
+   -170.00    540.00   -120.00    POINT:42         Roll Bar Mount 2
+   -170.00      0.00   -120.00    POINT:43         Roll Bar Revolute
+     50.33   -608.87    214.37    POINT:44         Drop Link 1 C of G
+     50.33    608.87    214.37    POINT:45         Drop Link 2 C of G
+   -199.67   -517.54    264.37    POINT:46         Roll Bar 1 C of G
+   -199.67    517.54    264.37    POINT:47         Roll Bar 2 C of G
+ 
+                             STATIC VALUES
+                     Camber Angle  (deg):    -3.50
+                Toe Angle {Plane}  (deg):     0.00
+                  Toe Angle {SAE}  (deg):     0.00
+                     Castor Angle  (deg):     5.02
+               Castor Trail (hub)   (mm):    -1.72
+             Castor Offset (grnd)   (mm):    30.73
+                    Kingpin Angle  (deg):    10.77
+             Kingpin Offset (w/c)   (mm):    73.60
+            Kingpin Offset (grnd)   (mm):    30.96
+          Mechanical Trail (grnd)   (mm):    30.62
+               ROLL CENTRE HEIGHT   (mm):    26.47
+ 
+                         GENERAL DATA VALUES
+              TYRE ROLLING RADIUS   (mm):   331.00
+                        WHEELBASE   (mm):  2700.00
+                    C OF G HEIGHT   (mm):   380.00
+           BREAKING ON FRONT AXLE    (%):    75.00
+              DRIVE ON FRONT AXLE    (%):     0.00
+             WEIGHT ON FRONT AXLE    (%):    47.00
+                   OUTBOARD FRONT BRAKES:
+                    OUTBOARD REAR BRAKES:
+            INDEPENDENT FRONT SUSPENSION:
+             INDEPENDENT REAR SUSPENSION:
+         RACK TYPE STEERING ARTICULATION:
+ 
+                               RUN DETAILS
+                              FULL MODEL:
+         BUMP TRAVEL   (mm):       60.00           INCREMENT   (mm):        5.00
+      REBOUND TRAVEL   (mm):       60.00           INCREMENT   (mm):        5.00
+          ROLL ANGLE  (deg):        2.00      ROLL INCREMENT  (deg):        0.25
+     STEERING TRAVEL   (mm):       28.00  STEERING INCREMENT   (mm):        1.00
+ 
+ 
+************************************************************************************
+    07/03/2019                                                   15:30:02
+      LOTUS SUSPENSION ANALYSIS v5.01
+ 
+************************************************************************************
+ 
+      REAR SUSPENSION       FILENAME: SCG004C_Front_R03.shk
+ 
+     TYPE 1 Double Wishbone, damper to lower wishbone
+ 
+                             STATIC VALUES
+         X         Y         Z
+      (mm)      (mm)      (mm)
+   2426.50   -313.00    -19.88    POINT:1          Lower wishbone front pivot
+   2786.50   -280.00    -59.58    POINT:2          Lower wishbone rear pivot
+   2699.50   -723.50    -78.38    POINT:3          Lower wishbone outer ball joint
+   2700.00   -420.00    206.52    POINT:4          Upper wishbone front pivot
+   2939.50   -420.00    200.52    POINT:5          Upper wishbone rear pivot
+   2700.00   -695.50    208.62    POINT:6          Upper wishbone outer ball joint
+   2754.00   -600.00    -41.88    POINT:7          Damper wishbone end
+   2787.50   -475.00    348.12    POINT:8          Damper body end
+   2822.00   -740.50    -37.48    POINT:9          Outer track rod ball joint
+   2853.00   -308.00    -18.48    POINT:10         Inner track rod ball joint
+   2787.50   -486.00    444.52    POINT:11         Upper spring pivot point
+   2752.50   -645.00    -35.48    POINT:12         Lower spring pivot point
+   2700.00   -701.00     67.62    POINT:13         Wheel spindle point
+   2700.00   -750.00     67.62    POINT:14         Wheel centre point
+   2637.50   -440.00    -50.48    POINT:15         Part 1 C of G
+   2777.50   -520.00    204.52    POINT:16         Part 2 C of G
+   2837.50   -525.00    -25.48    POINT:17         Part 3 C of G
+   2737.50   -720.00     29.52    POINT:18         Part 4 C of G
+ 
+                             STATIC VALUES
+                     Camber Angle  (deg):     0.00
+                Toe Angle {Plane}  (deg):     0.00
+                  Toe Angle {SAE}  (deg):     0.00
+                     Castor Angle  (deg):     0.10
+               Castor Trail (hub)   (mm):    -0.25
+             Castor Offset (grnd)   (mm):     0.85
+                    Kingpin Angle  (deg):     5.57
+             Kingpin Offset (w/c)   (mm):    40.74
+            Kingpin Offset (grnd)   (mm):     7.09
+          Mechanical Trail (grnd)   (mm):     0.85
+               ROLL CENTRE HEIGHT   (mm):    86.17
+ 
+                         GENERAL DATA VALUES
+              TYRE ROLLING RADIUS   (mm):   345.00
+                        WHEELBASE   (mm):  2700.00
+                    C OF G HEIGHT   (mm):   380.00
+           BREAKING ON FRONT AXLE    (%):    75.00
+              DRIVE ON FRONT AXLE    (%):     0.00
+             WEIGHT ON FRONT AXLE    (%):    47.00
+                   OUTBOARD FRONT BRAKES:
+                    OUTBOARD REAR BRAKES:
+            INDEPENDENT FRONT SUSPENSION:
+             INDEPENDENT REAR SUSPENSION:
+ 
+                               RUN DETAILS
+                              FULL MODEL:
+         BUMP TRAVEL   (mm):       60.00           INCREMENT   (mm):        5.00
+      REBOUND TRAVEL   (mm):       60.00           INCREMENT   (mm):        5.00
+          ROLL ANGLE  (deg):        2.00      ROLL INCREMENT  (deg):        0.25
+     STEERING TRAVEL   (mm):       28.00  STEERING INCREMENT   (mm):        1.00
+ 
+************************************************************************************
+    07/03/2019                                                   15:30:02
+      LOTUS SUSPENSION ANALYSIS v5.01
+ 
+************************************************************************************
+ 
+     FRONT SUSPENSION     -    BUMP TRAVEL
+ 
+            LHS WHEEL (-ve Y)
+ 
+     TYPE 6 Double Wishbone, damper to upper wishbone
+ 
+ 
+1
+ 
+                    Pothole
+                   Vertical
+ 
+ 
+LCA FWD X             -76.0
+LCA FWD Y           -1972.2
+LCA FWD Z              87.0
+LCA RWD X             -75.4
+LCA RWD Y            -944.1
+LCA RWD Z              41.2
+                        0.0
+                        0.0
+                        0.0
+                        0.0
+                        0.0
+ 

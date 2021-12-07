@@ -1,0 +1,15 @@
+            7
+Anti Roll force coefficient (Fa/Fy)
+([Swing Arm ctr Z {FRONT}]-[TCP Z])/([TCP Y]-[Swing Arm ctr Y {FRONT}])
+Anti Roll (%) - 1g Outer
+(([TCP Y]/([PC of G Height (mm)])-1)*([Swing Arm ctr Z {FRONT}]-[TCP Z])/([TCP Y]-[Swing Arm ctr Y {FRONT}]))*100
+Anti Dive force coefficient (Fa/Fx) -  Outboard torque reaction
+([Swing Arm ctr Z {SIDE}]-[TCP Z])/([Swing Arm ctr X {SIDE}])
+Anti Squat force coefficient (Fa/Fx) - Inboard torque reaction
+([Swing Arm ctr Z {SIDE}]-[HUB Z])/([TCP X][Swing Arm ctr X {SIDE}])
+Anti Roll (%) - 1g Inner
+(([TCP Y]/([PC of G Height (mm)])+1)*([Swing Arm ctr Z {FRONT}]-[TCP Z])/([TCP Y]-[Swing Arm ctr Y {FRONT}]))*100
+Anti Roll (%) - 1.3g Outer
+(([TCP Y]/([PC of G Height (mm)])-1.3)*([Swing Arm ctr Z {FRONT}]-[TCP Z])/([TCP Y]-[Swing Arm ctr Y {FRONT}]))*100
+Anti Roll (%) - 1.3g Inner
+(([TCP Y]/([PC of G Height (mm)])+1.3)*([Swing Arm ctr Z {FRONT}]-[TCP Z])/([TCP Y]-[Swing Arm ctr Y {FRONT}]))*100

@@ -1,0 +1,197 @@
+:Base Shark.hlp
+:Title Lotus Suspension Analysis - Shark
+1 Introduction
+2 Lotus Suspension Analysis - SHARK=INTRO1
+1 Overview
+2 Introduction=OVERV1
+2 Modules=OVERV2
+2 Units=OVERV38
+2 2D Suspension Types=OVERV3
+2 3D Suspension Types=OVERV4
+2 3D Steering Types=OVERV5
+2 Graphical Interface=OVERV6
+2 Hard Point Editing=OVERV31
+2 Hard Point Dragging=OVERV7
+2 Groups=OVERV8
+2 Dynamic Viewing=OVERV9
+2 The 2D Module=OVERV10
+2 2D Suspension Derivatives=OVERV11
+2 3D Suspension Derivatives=OVERV12
+2 Limit Boxes=OVERV13
+2 Graphs=OVERV14
+2 Enhanced Graphics=OVERV15
+2 Defaults=OVERV16
+2 Data Entry=OVERV17
+2 Saving Hard Points=OVERV18
+2 Animation=OVERV19
+2 Edit undo=OVERV20
+2 Converting 2D to 3D=OVERV21
+2 Managing User Lines=OVERV22
+2 Compliance Solving=OVERV23
+2 Compliance Bushes=OVERV24
+2 Compliance External forces=OVERV25
+2 Compliance Coefficients=OVERV26
+2 Deformed Geometry Animation=OVERV27
+2 Hard Point Joggle=OVERV28
+2 Point Coincedence=OVERV29
+2 Data File Text Editor=OVERV30
+2 Import and Export to Adams Sub Systems=OVERV32
+2 Adding a Hard Point to a Model=OVERV33
+2 Adding Graphics to a Model=OVERV34
+2 Free Body Graphical Display=OVERV35
+2 Kinematic Sum Display=OVERV36
+2 The Internal Optimizer=OVERV37
+2 Modal Analysis=OVERV39
+2 Forced-Damped Analysis=OVERV40
+2 Creating a Full Axle Model=OVERV41
+2 User Defined Custom Controls=OVERV42
+2 Auto-Search and Load=OVERV43
+2 Component-Setup Toolbox=OVERV44
+2 Definition Values=OVERV45
+2 Drive Shafts=OVERV46
+2 User Defined SDF's=OVERV47
+2 Control Elements=OVERV48
+2 Spacers=OVERV49
+2 Batch Mode=OVERV50
+2 User Language=OVERV51
+2 Reports=OVERV52
+2 Flexible Parts=OVERV53
+2 Interactive Template Builder=OVERV54
+1 Getting Started
+2 Start-up Steps=START1
+2 Program Start-up=START2
+2 Start-up Errors=START3
+2 Graphics Frame Type=START4
+2 Window Descriptions=START5
+2 Module Type=START6
+2 Data Entry=START7
+2 Exiting the Program=START8
+1 Menu Decriptions
+2 Pull Down Menu Items
+3 File=MENU1
+3 Module=MENU2
+3 Data=MENU3
+3 Edit=MENU4
+3 View=MENU5
+3 Tracking=MENU6
+3 Graphics=MENU7
+3 Graphs=MENU8
+3 Solve=MENU9
+3 Results=MENU10
+3 Setup=MENU11
+3 Window=MENU12
+3 Help=MENU13
+2 Mouse Right Button Menu Items
+3 Graphics Menu Actions=MOUSE1
+3 Graph Menu Items=MOUSE2
+3 Compliance Coefficients Display Items=MOUSE3
+2 Menu Trees
+3 Graphics Switches=TREE01
+3 Edit Menus=TREE02
+1 Icon Descriptions
+2 General=ICON1
+2 File Toolbar=ICON2
+2 View Toolbar=ICON3
+2 Graphics Toolbar=ICON4
+2 Graphs + Data Toolbar=ICON5
+1 Data Requirements
+2 Introduction=DATA1
+2 Co-ordinate System=DATA2
+2 2D Module
+3 2D Data Requirements=DATA3
+3 2D Suspension Type=DATA4
+3 2D General Data=DATA5
+3 2D Suspension Types Data
+4 2D Double Wishbone Suspension Hard Points=DATA6
+4 2D Macpherson Strut Suspension Hard Points=DATA7
+2 3D Module
+3 3D Data Requirements=DATA8
+3 3D Suspension End=DATA9
+3 3D Suspension Type=DATA10
+3 3D General Data (Parameters)=DATA11
+3 3D BodyType=DATA12
+3 3D Tyre Data=DATA13
+3 3D Spring Data=DATA44
+3 3D Damper Data=DATA60
+3 3D Roll Bar Properties=DATA61
+3 3D Steering Type=DATA14
+3 3D Comments=DATA15
+3 3D Bush Properties=DATA16
+3 3D External Force Data=DATA17
+3 3D C of G Properties=DATA59
+3 3D Suspension Types Data
+4 Type 1: Double Wishbone, Damper to Lower Wishbone=DATA18
+4 Type 2: 'H' Frame Lower, Single Upper Link=DATA19
+4 Type 3: Steerable Macpherson Strut=DATA20
+4 Type 4: Non-Steerable Macpherson Strut, Twin Lower Link=DATA21
+4 Type 5: 5-link Rigid Axle (panhard rod)=DATA52
+4 Type 6: Double Wishbone, Damper to Upper Wishbone=DATA22
+4 Type 7: Non-Steerable Macpherson Strut, Toe Link to wishbone=DATA23
+4 Type 8: 4-link Rigid Axle (panhard rod)=DATA53
+4 Type 9: 4-link Rigid Axle (twin upper)=DATA54
+4 Type 10: Trailing Arm, Upper and Lower Rear Links=DATA24
+4 Type 11: Semi Trailing Arm=DATA25
+4 Type 12: Steerable Twin Parallel Wishbones and Knuckle=DATA26
+4 Type 14: Double Wishbone, Push Rod to Damper=DATA27
+4 Type 15: Double Wishbone, Rocker Arm Damper=DATA28
+4 Type 16: Non-Steerable Lower 'A' with Toe Link=DATA29
+4 Type 17: Double Wishbone, Pushrod Monoshock=DATA30
+4 Type 18: Double Wishbone, Upper Toe Link and 'S' Link=DATA31
+4 Type 19: Hinged Trailing Arm, Twin Lower Link=DATA32
+4 Type 20: Double Wishbone, Twin Outer Ball Joints=DATA33
+4 Type 21: 5-link Rigid Axle (watts linkage)=DATA55
+4 Type 22: Double Wishbone, Twin Outer Links, Spring to Front Link=DATA47
+4 Type 23: Double Wishbone,  Twin Outer Ball Joints, Anti-Roll Bar=DATA48
+4 Type 24: Steerable Macpherson Strut, Twin Outer Ball Joints=DATA49
+4 Type 25: Double Wishbone, Twin Lower Outer Ball Joints=DATA50
+4 Type 26: Double Wishbone, Damper to Lower Wishbone, Compliant Rack=DATA51
+4 Type 27: Steerable Macpherson Strut, twin lower link=DATA56
+4 Type 28: 4-Link Rear, transverse control link=DATA57
+4 Type 29: Twist Beam - twin wheel=DATA58
+2 3D SolverTolerances=DATA34
+2 3D General Defaults=DATA35
+2 Deformed Geometery Scalar=DATA36
+2 Deformed Geometry Positon=DATA37
+2 Enhanced Graphics Sizes=DATA38
+2 Graphics Label Sizes=DATA39
+2 Compliance Graphic Sizes=DATA40
+2 Graphs Marker and Text Sizes=DATA41
+2 Graphs Decimal Points Display=DATA42
+2 3D Point Tolerances=DATA43
+2 3D General Compliance Data=DATA45
+2 3D User Definable Templates=DATA46
+2 Control Elements and Actuators=DATA64
+2 Body C of G Properties=DATA65
+2 Graphical Element Properties=DATA66
+2 3D Bump Stop Data=DATA67
+2 Local Co-ordinate Systems=DATA68
+1 Results Descriptions
+2 Introduction=RESULTS1
+2 2D Results=RESULTS2
+2 3D Suspension Derivatives File=RESULTS3
+2 3D Points listing=RESULTS4
+2 3D Compliance Coefficients=RESULTS5
+2 3D Bush Deflections=RESULTS6
+2 3D Joint/Bush Rotations=RESULTS7
+2 3D Bush Forces=RESULTS8
+2 AVI File Writing=RESULTS9
+2 Unsprung Corner Weights=RESULTS10
+1 How To...
+2 Customize SDF Display Settings=HOWTO1
+2 Create User Defined Results=HOWTO2
+2 Use Controls=HOWTO3
+1 Theory
+2 Definition of Suspension Derivatives=THEORY1
+2 The Two Part Steering Rack Model=THEORY2
+2 The Anti Roll Bar Model=THEORY3
+2 The Compliant Hub Model=THEORY4
+2 Steering Box Models=THEORY5
+2 Leaf Spring Modelling=THEORY6
+2 The Slotted Joint=THEORY7
+1 Appendicies
+2 Batch Commands=APPEND1
+2 Known Issues and Work Rounds=APPEND2
+2 Modes of Operation - Flow Diagram=APPEND3
+2 StartUp Process Order - Flow Diagram=APPEND4
+1 Lotus Engineering
+2 Lotus Engineering=LOTUS_ENG_INTRO

@@ -1,0 +1,2747 @@
+VERSION
+           53           3
+            1
+PARAMETERS
+      55.0000        -35.0000         5.00000
+      1.50000        0.250000
+      40.0000         5.00000
+           3140.00000000              320.000000000              60.0000000000            0.00000000000
+           46.0000000000
+            2           2           2           2
+            1           1           1           1
+      30.0000
+      1075.00
+            1           0           0           0
+            0
+            0           5           5           5           5
+            0
+            0
+            0
+            0
+            0
+            0
+            0
+TEMP_GRAPHICS
+           14
+           38           9           7
+ 
+            1           1           3           1           1           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            1           2           3           1           1           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            1           3           6           2           2           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            1           4           6           1           1           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            1           5           6           1           1           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            1           7           8           2           1           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            1           8          12           2           1           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            1           8          16           2           1           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            1           8          15           2           1           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            1          12          15           1           1           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            1          12          16           1           1           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            1           9          13           2           1           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            1           9          10           1           1           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            2           1           2           1           1           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            2           4           5           1           1           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            2          15          16           1           1           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            1          23          25           1           1           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            1          24          25           1           1           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            1          25          28           2           2           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            1          26          28           1           1           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            1          27          28           1           1           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            1          29          30           2           1           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            1          30          34           2           1           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            1          30          38           2           1           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            1          30          37           2           1           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            1          34          37           1           1           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            1          34          38           1           1           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            1          31          35           2           1           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            1          31          32           1           1           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            2          23          24           1           1           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            2          26          27           1           1           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            2          37          38           1           1           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            1          45          47           1           1           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            1          46          48           1           1           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            3          47          49           1           1           0           0           0           0
+      10.0000         30.0000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            3          48          50           1           1           0           0           0           0
+      10.0000         30.0000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            3          49          51           1           1           0           0           0           0
+      10.0000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            3          50          51           1           1           0           0           0           0
+      10.0000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+TEMP_GRAPHICS
+           46
+           36           9           7
+ 
+            1           1           3           1           1           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            1           2           3           1           1           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            1           3           6           2           2           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            1           4           6           1           1           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            1           5           6           1           1           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            1           7           8           2           1           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            1           9          11           2           1           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            1           9          10           1           1           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            2           1           2           1           1           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            2           4           5           1           1           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            1          19          21           1           1           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            1          20          21           1           1           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            1          21          24           2           2           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            1          22          24           1           1           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            1          23          24           1           1           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            1          25          26           2           1           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            1          27          29           2           1           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            1          27          28           1           1           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            2          19          20           1           1           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            2          22          23           1           1           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            2          37          38           1           1           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            2          40          41           1           1           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            1          43          45           1           1           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            1          44          46           1           1           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            3          45          46           1           1           0           0           0           0
+      10.0000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            3          49          54           1           1           0           0           0           0
+      10.0000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            3          47          49           1           1           0           0           0           0
+      10.0000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            3          48          49           1           1           0           0           0           0
+      10.0000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            4          41          44           1           1           0          26           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            4          40          44           1           1           0          26           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            4          41          40           1           1           0          44           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            4          41          40           1           1           0          26           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            4          37          38           1           1           0          43           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            4          37          43           1           1           0           8           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            4          38          37           1           1           0           8           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            4          38          43           1           1           0           8           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+TEMP_SETTINGS
+           14
+Double Wishbone, Push Rod to damper
+           16          57          31          18           3
+Lower Wishbone
+            0
+Upper Wishbone
+            0
+Track Rod
+            0
+Push Rod
+            0
+Rocker
+            0
+Upright
+            0
+Lower Wishbone(2)
+            0
+Upper Wishbone(2)
+            0
+Track Rod(2)
+            0
+Push Rod(2)
+            0
+Rocker(2)
+            0
+Upright(2)
+            0
+Drop Link 1
+            0
+Drop Link 2
+            0
+Roll Bar Part 1
+            0
+Roll Bar Part 2
+            0
+Lower wishbone front pivot
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+     -21.5000         75.0000         163.000
+            0           0           1          -1           1           0           0           0           0
+            0           0           0           0           0           0          23           0           0
+1
+            0           0           0
+ 
+ 
+ 
+Lower wishbone rear pivot
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      588.000         75.0000         165.000
+            0           0           1          -1           2           0           0           0           0
+            0           0           0           0           0           0          24           0           0
+2
+            0           0           0
+ 
+ 
+ 
+Lower wishbone outer ball joint
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      156.600         805.500         189.000
+            0           1           1           6           3           1           2           0           6
+            9           0           9           0           0           0          25           0           0
+3
+            0           0           0
+ 
+ 
+ 
+Upper wishbone front pivot
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      19.7000         148.390         377.000
+            0           0           2          -1           4           0           0           0           0
+            0           0           0           0           0           0          26           0           0
+4
+            0           0           0
+ 
+ 
+ 
+Upper wishbone rear pivot
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      588.000         148.390         377.000
+            0           0           2          -1           5           0           0           0           0
+            0           0           0           0           0           0          27           0           0
+5
+            0           0           0
+ 
+ 
+ 
+Upper wishbone outer ball joint
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      162.000         772.500         408.500
+            0           1           2           6           6           4           5           0           3
+            9           0           8           0           0           0          28           0           0
+6
+            0           0           0
+ 
+ 
+ 
+Push rod wishbone end
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      150.000         700.000         225.000
+            0           2           6           4           9           3           6           9           0
+            0           0           0           0           0           0          29           0           0
+7
+            0           0           0
+ 
+ 
+ 
+Push rod rocker end
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      175.000         200.000         475.000
+            0           8           4           5          10           7           0           0          15
+           16           0           0           0           0           0          30           0           0
+8
+            0           0           0
+ 
+ 
+ 
+Outer track rod ball joint
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      80.0000         798.000         405.000
+            0           1           3           6           8          10           0           0           3
+            6           0           0           0           0           0          31           0           0
+9
+            0           0           0
+ 
+ 
+ 
+Inner track rod ball joint
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+     -21.5000         153.000         372.500
+            0           0           3          -1           7           0           0           0           0
+            0           0           3           0           0           0          32           0           0
+10
+            0           0           0
+ 
+ 
+ 
+Damper to body point
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      550.000         75.0000         505.000
+            0           0          -1           0           0           0           0           0           0
+            0           0           5           7           0           0          33           0           0
+11
+            0           0           0
+ 
+ 
+ 
+Damper to rocker point
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      150.000         70.0000         475.000
+            0           2           5           0           0           8          15          16           0
+            0           0           4           6           0           0          34           0           0
+12
+            0           0           0
+ 
+ 
+ 
+Wheel spindle point
+DERIVED
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      160.000         794.000         306.000
+            0           5           6           0           0           3           9          14           0
+            0           0           2           0           0           0          35           0           0
+13
+            0           0           0
+ 
+ 
+ 
+Wheel centre point
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      160.000         894.000         310.000
+            0           3           6           0           0           3           6           9           0
+            0           0           1           0           0           0          36           0           0
+14
+            0           0           0
+ 
+ 
+ 
+Rocker axis 1st point
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      250.000         192.000         500.000
+            0           0           5          -1          11           0           0           0           0
+            0           0           0           0           0           0          37           0           0
+15
+            0           0           0
+ 
+ 
+ 
+Rocker axis 2nd point
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      240.000         178.000         450.000
+            0           0           5          -1          12           0           0           0           0
+            0           0           0           0           0           0          38           0           0
+16
+            0           0           0
+ 
+ 
+ 
+Part 1 C of G
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      220.000         415.000         185.000
+            0           2           1           0           0           1           2           3           0
+            0           0          25           0           0           0          39           0           0
+17
+            0           0           0
+ 
+ 
+ 
+Part 2 C of G
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      255.000         355.000         385.000
+            0           2           2           0           0           4           5           6           0
+            0           0          25           0           0           0          40           0           0
+18
+            0           0           0
+ 
+ 
+ 
+Part 3 C of G
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      30.0000         475.000         390.000
+            0           7           3           0           0          10           9           0           0
+            0           0          25           0           0           0          41           0           0
+19
+            0           0           0
+ 
+ 
+ 
+Part 4 C of G
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      160.000         450.000         350.000
+            0           7           4           0           0           8           9           0           0
+            0           0          25           0           0           0          42           0           0
+20
+            0           0           0
+ 
+ 
+ 
+Part 5 C of G
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      220.000         190.000         475.000
+            0           2           5           0           0          15          16           8           0
+            0           0          25           0           0           0          43           0           0
+21
+            0           0           0
+ 
+ 
+ 
+Part 6 C of G
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      135.000         790.000         335.000
+            0           2           6           0           0           3           6           9           0
+            0           0          25           0           0           0          44           0           0
+22
+            0           0           0
+ 
+ 
+ 
+Lower wishbone front pivot(2)
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+     -21.5000        -75.0000         163.000
+            0           0           7          -1          13           0           0           0           0
+            0           0           0           0           0           0           1           0           0
+201
+            0           0           0
+ 
+ 
+ 
+Lower wishbone rear pivot(2)
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      588.000        -75.0000         165.000
+            0           0           7          -1          14           0           0           0           0
+            0           0           0           0           0           0           2           0           0
+202
+            0           0           0
+ 
+ 
+ 
+Lower wishbone outer ball joint(2)
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      156.600        -805.500         189.000
+            0           1           7          12          15          23          24           0          28
+           31           0          27           0           0           0           3           0           0
+203
+            0           0           0
+ 
+ 
+ 
+Upper wishbone front pivot(2)
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      19.7000        -148.390         377.000
+            0           0           8          -1          16           0           0           0           0
+            0           0           0           0           0           0           4           0           0
+204
+            0           0           0
+ 
+ 
+ 
+Upper wishbone rear pivot(2)
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      588.000        -148.390         377.000
+            0           0           8          -1          17           0           0           0           0
+            0           0           0           0           0           0           5           0           0
+205
+            0           0           0
+ 
+ 
+ 
+Upper wishbone outer ball joint(2)
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      162.000        -772.500         408.500
+            0           1           8          12          18          26          27           0          25
+           31           0          26           0           0           0           6           0           0
+206
+            0           0           0
+ 
+ 
+ 
+Push rod wishbone end(2)
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      150.000        -700.000         225.000
+            0           2          12          10          21          25          28          31           0
+            0           0           0           0           0           0           7           0           0
+207
+            0           0           0
+ 
+ 
+ 
+Push rod rocker end(2)
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      175.000        -200.000         475.000
+            0           8          10          11          22          29           0           0          37
+           38           0           0           0           0           0           8           0           0
+208
+            0           0           0
+ 
+ 
+ 
+Outer track rod ball joint(2)
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      80.0000        -798.000         405.000
+            0           1           9          12          20          32           0           0          25
+           28           0           0           0           0           0           9           0           0
+209
+            0           0           0
+ 
+ 
+ 
+Inner track rod ball joint(2)
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+     -21.5000        -153.000         372.500
+            0           0           9          -1          19           0           0           0           0
+            0           0          33           0           0           0          10           0           0
+210
+            0           0           0
+ 
+ 
+ 
+Damper to body point(2)
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      550.000        -75.0000         505.000
+            0           0          -1           0           0           0           0           0           0
+            0           0          19          21           0           0          11           0           0
+211
+            0           0           0
+ 
+ 
+ 
+Damper to rocker point(2)
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      150.000        -70.0000         475.000
+            0           2          11           0           0          30          37          38           0
+            0           0          18          20           0           0          12           0           0
+212
+            0           0           0
+ 
+ 
+ 
+Wheel spindle point(2)
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      160.000        -794.000         306.000
+            0           5          12           0           0          25          31          36           0
+            0           0          23           0           0           0          13           0           0
+213
+            0           0           0
+ 
+ 
+ 
+Wheel centre point(2)
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      160.000        -894.000         310.000
+            0           3          12           0           0          25          28          31           0
+            0           0          17           0           0           0          14           0           0
+214
+            0           0           0
+ 
+ 
+ 
+Rocker axis 1st point(2)
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      250.000        -192.000         500.000
+            0           0          11          -1          23           0           0           0           0
+            0           0           0           0           0           0          15           0           0
+215
+            0           0           0
+ 
+ 
+ 
+Rocker axis 2nd point(2)
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      240.000        -178.000         450.000
+            0           0          11          -1          24           0           0           0           0
+            0           0           0           0           0           0          16           0           0
+216
+            0           0           0
+ 
+ 
+ 
+Part 1 C of G(2)
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      220.000        -415.000         185.000
+            0           2           7           0           0          23          24          25           0
+            0           0          25           0           0           0          17           0           0
+217
+            0           0           0
+ 
+ 
+ 
+Part 2 C of G(2)
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      255.000        -355.000         385.000
+            0           2           8           0           0          26          27          28           0
+            0           0          25           0           0           0          18           0           0
+218
+            0           0           0
+ 
+ 
+ 
+Part 3 C of G(2)
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      30.0000        -475.000         390.000
+            0           7           9           0           0          32          31           0           0
+            0           0          25           0           0           0          19           0           0
+219
+            0           0           0
+ 
+ 
+ 
+Part 4 C of G(2)
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      160.000        -450.000         350.000
+            0           7          10           0           0          30          31           0           0
+            0           0          25           0           0           0          20           0           0
+220
+            0           0           0
+ 
+ 
+ 
+Part 5 C of G(2)
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      220.000        -190.000         475.000
+            0           2          11           0           0          37          38          30           0
+            0           0          25           0           0           0          21           0           0
+221
+            0           0           0
+ 
+ 
+ 
+Part 6 C of G(2)
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      135.000        -790.000         335.000
+            0           2          12           0           0          25          28          31           0
+            0           0          25           0           0           0          22           0           0
+222
+            0           0           0
+ 
+ 
+ 
+Roll Bar Attachment 1
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+     -42.0000        -279.779         452.865
+           45           2           5          13          25          15          16          12           0
+            0           0          14           0           0           0          46           0           0
+45
+            0           0           0
+ 
+ 
+ 
+Roll Bar Attachment 2
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+     -42.0000         279.779         452.865
+            0           2          11          14          26          30          37          38           0
+            0           0          32           0           0           0          45           0           0
+46
+            0           0           0
+ 
+ 
+ 
+Roll Bar to Link1
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+     -42.0000        -281.779         552.865
+            0           8          13          15          27          45           0           0          49
+           50           0           0           0           0           0          48           0           0
+47
+            0           0           0
+ 
+ 
+ 
+Roll Bar to Link2
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+     -42.0000         277.779         552.865
+            0           8          14          16          28          46           0           0          50
+           49           0           0           0           0           0          47           0           0
+48
+            0           0           0
+ 
+ 
+ 
+Roll Bar Mount 1
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+     -542.000        -195.845         552.865
+            0           0          15          -1          29           0           0           0           0
+            0           0           0           0           0           0          50           0           0
+49
+            0           0           0
+ 
+ 
+ 
+Roll Bar Mount 2
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+     -542.000         195.845         552.865
+            0           0          16          -1          30           0           0           0           0
+            0           0           0           0           0           0          49           0           0
+50
+            0           0           0
+ 
+ 
+ 
+Roll Bar Revolute
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+     -542.000         0.00000         552.865
+            0           9          15          16          31           0           0           0           0
+            0           0          34           0           0           0           0           0           0
+51
+            0           0           0
+ 
+ 
+ 
+Drop Link 1 C of G
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+     -42.0000        -279.779         502.865
+            0           7          13           0           0          45          47           0           0
+            0           0          25           0           0           0          53           0           0
+52
+            0           0           0
+ 
+ 
+ 
+Drop Link 2 C of G
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+     -42.0000         279.779         502.865
+            0           7          14           0           0          46          48           0           0
+            0           0          25           0           0           0          52           0           0
+53
+            0           0           0
+ 
+ 
+ 
+Roll Bar 1 C of G
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+     -292.000        -237.812         552.865
+            0           2          15           0           0          47          49          51           0
+            0           0          25           0           0           0          55           0           0
+54
+            0           0           0
+ 
+ 
+ 
+Roll Bar 2 C of G
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+     -292.000         237.812         552.865
+            0           2          16           0           0          48          50          51           0
+            0           0          25           0           0           0          54           0           0
+55
+            0           0           0
+ 
+ 
+ 
+3rd Element Rocker LH
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      46.0000        -316.758         503.793
+            0           2           5           0           0           8          15          16           0
+            0           0          78           0           0           0           0           0           0
+56
+            0           0           0
+ 
+ 
+ 
+3rd Element Rocker RH
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      46.0000         316.758         503.793
+            0           2          11           0           0          30          37          38           0
+            0           0          77           0           0           0          56           0           0
+57
+            0           0           0
+ 
+ 
+ 
+            1           2           3
+      0.00000         0.00000         0.00000
+      1.00000         1.00000         1.00000
+TEMP_SETTINGS
+           46
+LMP Rear with T-Bar
+           16          59          31          18           3
+Lower Wishbone
+            0
+Upper Wishbone
+            0
+Track Rod
+            0
+Push Rod
+            0
+Upright
+            0
+Lower Wishbone(2)
+            0
+Upper Wishbone(2)
+            0
+Track Rod(2)
+            0
+Push Rod(2)
+            0
+Upright(2)
+            0
+Middle Rocker
+            0
+Middle Rocker(2)
+            0
+Drop Link 1
+            0
+Drop Link 2
+            0
+Roll Bar Part 1
+            0
+Roll Bar Part 2
+            0
+Lower wishbone front pivot
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      2734.43        -182.972         239.050
+            0           0           1          -1           1           0           0           0           0
+            0           0           0           0           0           0          19           0           0
+1
+            0           0           0
+ 
+ 
+ 
+Lower wishbone rear pivot
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      3211.20        -132.880         214.804
+            0           0           1          -1           2           0           0           0           0
+            0           0           0           0           0           0          20           0           0
+2
+            0           0           0
+ 
+ 
+ 
+Lower wishbone outer ball joint
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      3083.79        -686.918         199.957
+            0           1           1           5           3           1           2           0           6
+            9           0           9           0           0           0          21           0           0
+3
+            0           0           0
+ 
+ 
+ 
+Upper wishbone front pivot
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      2544.00        -230.714         372.166
+            0           0           2          -1           4           0           0           0           0
+            0           0           0           0           0           0          22           0           0
+4
+            0           0           0
+ 
+ 
+ 
+Upper wishbone rear pivot
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      3002.71        -198.629         368.857
+            0           0           2          -1           5           0           0           0           0
+            0           0           0           0           0           0          23           0           0
+5
+            0           0           0
+ 
+ 
+ 
+Upper wishbone outer ball joint
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      3067.57        -643.566         391.817
+            0           1           2           5           6           4           5           0           3
+            9           0           8           0           0           0          24           0           0
+6
+            0           0           0
+ 
+ 
+ 
+Push rod upright end
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      3094.08        -632.717         153.725
+            0           2           5           4           7           3           6           9           0
+            0           0           0           0           0           0          25           0           0
+7
+            0           0           0
+ 
+ 
+ 
+Push rod rocker end
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      3046.01        -157.354         452.396
+            0           8           4          11           8           7           0           0          37
+           38           0           0           0           0           0          26           0           0
+8
+            0           0           0
+ 
+ 
+ 
+Outer track rod ball joint
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      3277.90        -609.378         340.199
+            0           1           3           5           9          10           0           0           3
+            6           0           0           0           0           0          27           0           0
+9
+            0           0           0
+ 
+ 
+ 
+Inner track rod ball joint
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      3265.47        -136.000         328.806
+            0           0           3          -1          10           0           0           0           0
+            0           0           3           0           0           0          28           0           0
+10
+            0           0           0
+ 
+ 
+ 
+Wheel spindle point
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      3137.92        -612.204         336.677
+            0           5           5           0           0           3           9          12           0
+            0           0           2           0           0           0          29           0           0
+11
+            0           0           0
+ 
+ 
+ 
+Wheel centre point
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      3137.94        -799.501         339.942
+            0           3           5           0           0           3           6           9           0
+            0           0           1           0           0           0          30           0           0
+12
+            0           0           0
+ 
+ 
+ 
+Part 1 C of G
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      380.000        -415.000         185.000
+            0           2           1           0           0           1           2           3           0
+            0           0          25           0           0           0          31           0           0
+13
+            0           0           0
+ 
+ 
+ 
+Part 2 C of G
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      345.000        -355.000         385.000
+            0           2           2           0           0           4           5           6           0
+            0           0          25           0           0           0          32           0           0
+14
+            0           0           0
+ 
+ 
+ 
+Part 3 C of G
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      570.000        -475.000         390.000
+            0           7           3           0           0          10           9           0           0
+            0           0          25           0           0           0          33           0           0
+15
+            0           0           0
+ 
+ 
+ 
+Part 4 C of G
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      440.000        -450.000         350.000
+            0           7           4           0           0           8           9           0           0
+            0           0          25           0           0           0          34           0           0
+16
+            0           0           0
+ 
+ 
+ 
+Part 6 C of G
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      465.000        -790.000         335.000
+            0           2           5           0           0           3           6           9           0
+            0           0          25           0           0           0          35           0           0
+17
+            0           0           0
+ 
+ 
+ 
+TCP{Q}
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      3140.06        -805.427         0.00000
+            0          10           5           0           0           0           0           0           0
+            0           0          55           0           0           0          36           0           0
+18
+            0           0           0
+ 
+ 
+ 
+Lower wishbone front pivot(2)
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      2734.43         182.972         239.050
+            0           0           6          -1          11           0           0           0           0
+            0           0           0           0           0           0           1           0           0
+19
+            0           0           0
+ 
+ 
+ 
+Lower wishbone rear pivot(2)
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      3211.20         132.880         214.804
+            0           0           6          -1          12           0           0           0           0
+            0           0           0           0           0           0           2           0           0
+20
+            0           0           0
+ 
+ 
+ 
+Lower wishbone outer ball joint(2)
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      3083.79         686.918         199.957
+            0           1           6          10          13          19          20           0          24
+           27           0          27           0           0           0           3           0           0
+21
+            0           0           0
+ 
+ 
+ 
+Upper wishbone front pivot(2)
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      2544.00         230.714         372.166
+            0           0           7          -1          14           0           0           0           0
+            0           0           0           0           0           0           4           0           0
+22
+            0           0           0
+ 
+ 
+ 
+Upper wishbone rear pivot(2)
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      3002.71         198.629         368.857
+            0           0           7          -1          15           0           0           0           0
+            0           0           0           0           0           0           5           0           0
+23
+            0           0           0
+ 
+ 
+ 
+Upper wishbone outer ball joint(2)
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      3067.57         643.566         391.817
+            0           1           7          10          16          22          23           0          21
+           27           0          26           0           0           0           6           0           0
+24
+            0           0           0
+ 
+ 
+ 
+Push rod upright end(2)
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      3094.08         632.717         153.725
+            0           2          10           9          17          21          24          27           0
+            0           0           0           0           0           0           7           0           0
+25
+            0           0           0
+ 
+ 
+ 
+Push rod rocker end(2)
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      3046.01         157.354         452.396
+            0           8           9          12          18          25           0           0          40
+           41           0           0           0           0           0           8           0           0
+26
+            0           0           0
+ 
+ 
+ 
+Outer track rod ball joint(2)
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      3277.90         609.378         340.199
+            0           1           8          10          19          28           0           0          21
+           24           0           0           0           0           0           9           0           0
+27
+            0           0           0
+ 
+ 
+ 
+Inner track rod ball joint(2)
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      3265.47         136.000         328.806
+            0           0           8          -1          20           0           0           0           0
+            0           0          33           0           0           0          10           0           0
+28
+            0           0           0
+ 
+ 
+ 
+Wheel spindle point(2)
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      3137.92         612.204         336.677
+            0           5          10           0           0          21          27          30           0
+            0           0          23           0           0           0          11           0           0
+29
+            0           0           0
+ 
+ 
+ 
+Wheel centre point(2)
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      3137.94         799.501         339.942
+            0           3          10           0           0          21          24          27           0
+            0           0          17           0           0           0          12           0           0
+30
+            0           0           0
+ 
+ 
+ 
+Part 7 C of G
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      380.000         415.000         185.000
+            0           2           6           0           0          19          20          21           0
+            0           0          25           0           0           0          13           0           0
+31
+            0           0           0
+ 
+ 
+ 
+Part 8 C of G
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      345.000         355.000         385.000
+            0           2           7           0           0          22          23          24           0
+            0           0          25           0           0           0          14           0           0
+32
+            0           0           0
+ 
+ 
+ 
+Part 9 C of G
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      570.000         475.000         390.000
+            0           7           8           0           0          28          27           0           0
+            0           0          25           0           0           0          15           0           0
+33
+            0           0           0
+ 
+ 
+ 
+Part 10 C of G
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      440.000         450.000         350.000
+            0           7           9           0           0          26          27           0           0
+            0           0          25           0           0           0          16           0           0
+34
+            0           0           0
+ 
+ 
+ 
+Part 11 C of G
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      465.000         790.000         335.000
+            0           2          10           0           0          21          24          27           0
+            0           0          25           0           0           0          17           0           0
+35
+            0           0           0
+ 
+ 
+ 
+TCP{Q}(2)
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      3140.06         805.427         0.00000
+            0          10          10           0           0           0           0           0           0
+            0           0          56           0           0           0          18           0           0
+36
+            0           0           0
+ 
+ 
+ 
+Mid Rocker Mount1
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      2990.30        -135.002         425.527
+            0           0          11          -1          21           0           0           0           0
+            0           0           0           0           0           0          40           0           0
+37
+            0           0           0
+ 
+ 
+ 
+Mid Rocker Mount2
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      2994.44        -149.368         456.362
+            0           0          11          -1          22           0           0           0           0
+            0           0           0           0           0           0          41           0           0
+38
+            0           0           0
+ 
+ 
+ 
+Part 13 C of G
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      600.000        -397.500         283.400
+            0           2          11           0           0          37          38           0           0
+            0           0          25           0           0           0          42           0           0
+39
+            0           0           0
+ 
+ 
+ 
+Mid Rocker Mount1(2)
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      2990.30         135.002         425.527
+            0           0          12          -1          23           0           0           0           0
+            0           0           0           0           0           0          37           0           0
+40
+            0           0           0
+ 
+ 
+ 
+Mid Rocker Mount2(2)
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      2994.44         149.368         456.362
+            0           0          12          -1          24           0           0           0           0
+            0           0           0           0           0           0          38           0           0
+41
+            0           0           0
+ 
+ 
+ 
+Part 15 C of G
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      600.000         397.500         283.400
+            0           2          12           0           0          40          41           0           0
+            0           0          25           0           0           0          39           0           0
+42
+            0           0           0
+ 
+ 
+ 
+Roll Bar Attachment 1
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      2971.13        -62.2840         555.521
+            0           2          11          13          25          37          38           8           0
+            0           0          14           0           0           0          44           0           0
+43
+            0           0           0
+ 
+ 
+ 
+Roll Bar Attachment 2
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      2971.13         62.2840         555.521
+            0           2          12          14          26          40          41          26           0
+            0           0          32           0           0           0          43           0           0
+44
+            0           0           0
+ 
+ 
+ 
+Roll Bar to Link1
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      3367.08        -100.000         530.833
+            0           8          13          16          27          43           0           0          47
+           48           0           0           0           0           0          46           0           0
+45
+            0           0           0
+ 
+ 
+ 
+Roll Bar to Link2
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      3367.08         100.000         530.833
+            0           8          14          16          28          44           0           0          48
+           47           0           0           0           0           0          45           0           0
+46
+            0           0           0
+ 
+ 
+ 
+Roll Bar Mount 1
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      3333.20        -62.0000         293.237
+            0           0          15          -1          29           0           0           0           0
+            0           0           0           0           0           0          48           0           0
+47
+            0           0           0
+ 
+ 
+ 
+Roll Bar Mount 2
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      3333.20         62.0000         293.237
+            0           0          15          -1          30           0           0           0           0
+            0           0           0           0           0           0          47           0           0
+48
+            0           0           0
+ 
+ 
+ 
+Roll Bar Revolute
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      377.000         0.00000         295.000
+            0           9          15          16          31           0           0           0           0
+            0           0          34           0           0           0           0           0           0
+49
+            1           1           1
+[(P47X+P48X)/2.0]
+[0.0]
+[((P47Z+P48Z)/2.0)+1.0]
+Drop Link 1 C of G
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      577.004        -211.291         545.503
+            0           7          13           0           0          43          45           0           0
+            0           0          25           0           0           0          51           0           0
+50
+            0           0           0
+ 
+ 
+ 
+Drop Link 2 C of G
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      577.004         211.291         545.503
+            0           7          14           0           0          44          46           0           0
+            0           0          25           0           0           0          50           0           0
+51
+            0           0           0
+ 
+ 
+ 
+Roll Bar 1 C of G
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      327.004        -179.598         595.503
+            0           2          15           0           0          45          47          49           0
+            0           0          25           0           0           0          53           0           0
+52
+            0           0           0
+ 
+ 
+ 
+Roll Bar 2 C of G
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      327.004         179.598         595.503
+            0           2          16           0           0          46          48          49           0
+            0           0          25           0           0           0          52           0           0
+53
+            0           0           0
+ 
+ 
+ 
+Roll Bar Bush Z axis Marker
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      407.000         0.00000         495.000
+            0           2          16           0           0          45          46          49           0
+            0           0          77           0           0           0           0           0           0
+54
+            0           0           0
+[(P45X+P46X)/2.0]
+[(P45Y+P46Y)/2.0]
+[(P45Z+P46Z)/2.0]
+3rd spring-damper to chassis
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      2997.15         0.00000         513.960
+            0           0          -1           0           0           0           0           0           0
+            0           0          78           0           0           0           0           0           0
+55
+            0           0           0
+ 
+ 
+ 
+LH Damper to Rocker
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      2962.10        -41.8420         510.801
+            0           2          11           0           0           8          37          38           0
+            0           0           4           6           0           0          57           0           0
+56
+            0           0           0
+ 
+ 
+ 
+RH Damper to Rocker
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      2962.10         41.8420         510.801
+            0           2          12           0           0          26          40          41           0
+            0           0          18          20           0           0          56           0           0
+57
+            0           0           0
+ 
+ 
+ 
+LH Damper to Chassis
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      2601.68        -181.111         494.222
+            0           0          -1           0           0           0           0           0           0
+            0           0           5           7           0           0          59           0           0
+58
+            0           0           0
+ 
+ 
+ 
+RH Damper to Chassis
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+      2601.68         181.111         494.222
+            0           0          -1           0           0           0           0           0           0
+            0           0          19          21           0           0          58           0           0
+59
+            0           0           0
+ 
+ 
+ 
+            1           2           3
+      0.00000         0.00000         0.00000
+      1.00000         1.00000         1.00000
+EXTENDED_TYRE
+            0           0
+FRONT SUSPENSION
+           14
+          -200.938995361             -392.863006592              222.910995483
+           174.039993286             -425.671997070              227.397994995
+          -2.90300011635             -713.481018066              225.277999878
+          -67.5510025024             -434.674011230              476.464996338
+           172.656005859             -455.671997070              444.765014648
+           22.2469997406             -648.424011230              480.149993896
+           3.00300002098             -689.073974609              285.122009277
+           12.9049997330             -370.000000000              562.090026855
+          -95.8750000000             -683.799987793              488.617004395
+          -122.475997925             -430.000000000              472.786010742
+          -27.1189994812            0.00000000000                565.835998535
+          -27.3419990540             -325.000000000              600.835021973
+          -1.68400001526             -667.049987793              340.425994873
+          -1.71800005436             -820.533020020              345.786010742
+           83.1460037231             -322.000000000              524.536987305
+          -81.8509979248             -322.000000000              523.486022949
+           220.000000000             -415.000000000              185.000000000
+           255.000000000             -355.000000000              385.000000000
+           30.0000000000             -475.000000000              390.000000000
+           160.000000000             -450.000000000              350.000000000
+           220.000000000             -190.000000000              475.000000000
+           135.000000000             -790.000000000              335.000000000
+          -200.938995361              392.863006592              222.910995483
+           174.039993286              425.671997070              227.397994995
+          -2.90300011635              713.481018066              225.277999878
+          -67.5510025024              434.674011230              476.464996338
+           172.656005859              455.671997070              444.765014648
+           22.2469997406              648.424011230              480.149993896
+           3.00300002098              689.073974609              285.122009277
+           12.9049997330              370.000000000              562.090026855
+          -95.8750000000              683.799987793              488.617004395
+          -122.475997925              430.000000000              472.786010742
+          -27.1189994812            0.00000000000                565.835998535
+          -27.3419990540              325.000000000              600.835021973
+          -1.68400001526              667.049987793              340.425994873
+          -1.71800005436              820.533020020              345.786010742
+           83.1460037231              322.000000000              524.536987305
+          -81.8509979248              322.000000000              523.486022949
+           220.000000000              415.000000000              185.000000000
+           255.000000000              355.000000000              385.000000000
+           30.0000000000              475.000000000              390.000000000
+           160.000000000              450.000000000              350.000000000
+           220.000000000              190.000000000              475.000000000
+           135.000000000              790.000000000              335.000000000
+          -83.9049987793             -245.000000000              531.973022461
+          -83.9049987793              245.000000000              531.973022461
+          -84.9309997559             -244.246994019              351.977996826
+          -84.9309997559              244.246994019              351.977996826
+          -236.904998779             -244.246994019              374.496002197
+          -236.904998779              244.246994019              374.496002197
+          -236.904998779            0.00000000000                374.496002197
+          -42.0000000000             -279.778991699              502.864990234
+          -42.0000000000              279.778991699              502.864990234
+          -292.000000000             -237.812149048              552.864990234
+          -292.000000000              237.812149048              552.864990234
+           57.7830009460             -330.000000000              581.377014160
+           57.7830009460              330.000000000              581.377014160
+           346.000000000
+     -200.939         3.50000        -392.863        -50.0000         138.000         225.458
+      174.040         613.000        -425.672        -50.0000         140.000         227.398
+     -2.90300         181.600        -830.500        -713.481         149.295         225.303
+     -67.5510         44.7000        -434.674        -123.390         352.000         477.293
+      172.656         613.000        -455.674        -123.390         352.000         444.765
+      22.2470         187.000        -797.500        -648.424         383.500         480.150
+      3.00300         175.000        -725.000        -675.000         200.000         285.122
+      12.9050         200.000        -370.000        -175.000         450.000         562.090
+     -98.5000         105.000        -823.000        -683.800         380.000         488.617
+     -125.000         3.50000        -430.000        -128.000         347.500         472.786
+     -39.0000         575.000        -100.000         0.00000         480.000         566.141
+     -39.0000         175.000        -325000.        -45.0000         450.000         601.141
+     -1.68400         185.000        -974.015        -632.041        -806.532         351.145
+     -1.71800         185.000        -919.000        -806.532         269.793         345.786
+      83.0000         275.000        -322.000        -167.000         448.000         525.000
+     -81.8510         265.000        -322.000        -153.000         425.000         524.492
+      195.000         245.000        -440.000        -390.000         160.000         210.000
+      230.000         280.000        -380.000        -330.000         360.000         410.000
+      5.00000         55.0000        -500.000        -450.000         365.000         415.000
+      135.000         185.000        -475.000        -425.000         325.000         375.000
+      195.000         245.000        -215.000        -165.000         450.000         500.000
+      110.000         160.000        -815.000        -765.000         310.000         360.000
+     -200.939         3.50000         50.0000         392.863         138.000         225.458
+      174.040         613.000         50.0000         425.672         140.000         227.398
+     -2.90300         181.600         713.481         830.500         149.295         225.303
+     -67.5510         44.7000         123.390         434.674         352.000         477.293
+      172.656         613.000         123.390         455.674         352.000         444.765
+      22.2470         187.000         648.424         797.500         383.500         480.150
+      3.00300         175.000         675.000         725.000         200.000         285.122
+      12.9050         200.000         175.000         370.000         450.000         562.090
+     -98.5000         105.000         683.800         823.000         380.000         488.617
+     -125.000         3.50000         128.000         430.000         347.500         472.786
+     -39.0000         575.000         0.00000         100.000         480.000         566.141
+     -39.0000         175.000         45.0000         325000.         450.000         601.141
+     -1.68400         185.000         632.041         974.015        -806.532         351.145
+     -1.71800         185.000         806.532         919.000         269.793         345.786
+      83.0000         275.000         167.000         322.000         448.000         525.000
+     -81.8510         265.000         153.000         322.000         425.000         524.492
+      195.000         245.000         390.000         440.000         160.000         210.000
+      230.000         280.000         330.000         380.000         360.000         410.000
+      5.00000         55.0000         450.000         500.000         365.000         415.000
+      135.000         185.000         425.000         475.000         325.000         375.000
+      195.000         245.000         165.000         215.000         450.000         500.000
+      110.000         160.000         765.000         815.000         310.000         360.000
+     -83.9050         0.00000        -245.000         0.00000         0.00000         531.973
+     -83.9050        -17.0000         237.918         304.779         427.865         531.973
+     -84.9310        -17.0000        -306.779        -244.247         276.515         577.865
+     -84.9310        -17.0000         244.247         305.524         276.515         577.865
+     -567.000        -225.000        -294.937        -170.845         300.000         577.865
+     -567.000        -225.000         170.845         294.937         300.000         577.865
+     -567.000        -225.000        -25.0000         25.0000         300.000         577.865
+     -67.0000        -17.0000        -304.779        -254.779         477.865         527.865
+     -67.0000        -17.0000         254.779         304.779         477.865         527.865
+     -317.000        -267.000        -262.812        -212.812         527.865         577.865
+     -317.000        -267.000         212.812         262.812         527.865         577.865
+      0.00000         64.2140        -330.000         0.00000         0.00000         581.377
+      0.00000         64.2140         0.00000         330.000         0.00000         581.377
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+REAR SUSPENSION
+           46
+           2723.64111328             -198.000000000              205.052001953
+           3211.30517578             -132.880004883              180.796005249
+           3085.70996094             -687.093933105              203.148635864
+           2645.76806641             -310.000000000              341.929992676
+           3002.92016602             -198.628997803              334.851989746
+           3067.36157227             -640.261108398              393.992126465
+           3096.50170898             -633.738281250              156.054840088
+           3053.73364258             -145.759841919              422.114929199
+           3298.17797852             -606.861511230              344.818359375
+           3265.51708984             -136.000000000              294.808258057
+           3138.31933594             -609.863952637              339.086395264
+           3138.28198242             -797.070068359              345.776397705
+           380.762664795             -427.441894531              138.828521729
+           345.044921875             -360.359069824              292.742401123
+           569.361572266             -472.372711182              362.360839844
+           440.738098145             -404.018890381              262.060791016
+           465.038299561             -789.513793945              304.505645752
+           3138.27951686             -809.426844859          -2.881703710332E-03
+           2723.64111328              198.000000000              205.052001953
+           3211.30517578              132.880004883              180.796005249
+           3085.70996094              687.093933105              203.148635864
+           2645.76806641              310.000000000              341.929992676
+           3002.92016602              198.628997803              334.851989746
+           3067.36157227              640.261108398              393.992126465
+           3096.50170898              633.738281250              156.054840088
+           3053.73364258              145.759841919              422.114929199
+           3298.17797852              606.861511230              344.818359375
+           3265.51708984              136.000000000              294.808258057
+           3138.31933594              609.863952637              339.086395264
+           3138.28198242              797.070068359              345.776397705
+           380.762664795              427.441894531              138.828521729
+           345.044921875              360.359069824              292.742401123
+           569.361572266              472.372711182              362.360839844
+           440.738098145              404.018890381              262.060791016
+           465.038299561              789.513793945              304.505645752
+           3138.27951686              809.426844859          -2.881703710332E-03
+           2990.28906250             -135.001998901              391.530242920
+           3001.17822266             -172.845001221              472.756225586
+           599.410156250             -397.500000000              243.441345215
+           2990.28906250              135.001998901              391.530242920
+           3001.17822266              172.845001221              472.756225586
+           599.410156250              397.500000000              243.441345215
+           3008.69311523             -57.5801200867              516.259338379
+           3008.69311523              57.5801200867              516.259338379
+           3344.50805664             -110.930999756              547.182006836
+           3344.50805664              110.930999756              547.182006836
+           3343.24804688             -20.0000000000              259.291992188
+           3343.24804688              20.0000000000              259.291992188
+           3343.24804688            0.00000000000                260.291992188
+           539.638183594             -162.009963989              585.054687500
+           539.638183594              162.009963989              585.054687500
+           314.266693115             -157.650451660              114.908615112
+           314.266693115              157.650451660              114.908615112
+           3363.27807617            0.00000000000                545.687988281
+           2793.33813477            0.00000000000                490.921997070
+           2975.71948242             -71.9081268311              486.222839355
+           2975.71948242              71.9081268311              486.222839355
+           2636.22412109             -156.125000000              487.215026855
+           2636.22412109              156.125000000              487.215026855
+           346.000000000
+      2708.85         2758.85        -207.972        -157.972         174.091         224.091
+      3185.62         3235.62        -157.880        -107.880         149.845         199.845
+      3058.21         3108.21        -711.918        -661.918         174.998         224.998
+      2518.42         2645.77        -319.566        -205.714         307.207         357.207
+      2977.13         3027.13        -223.629        -173.629         303.898         353.898
+      3041.99         3091.99        -668.566        -618.566         366.858         416.858
+      3068.50         3118.50        -657.717        -607.717         128.766         178.766
+      3020.43         3070.43        -182.354        -132.354         427.437         477.437
+      3252.32         3302.32        -634.378        -584.378         315.240         365.240
+      3239.89         3289.89        -161.000        -111.000         263.847         313.847
+      3112.34         3162.34        -637.204        -587.204         311.718         361.718
+      3112.36         3162.36        -824.501        -774.501         314.983         364.983
+      354.410         404.410        -440.000        -390.000         160.041         210.041
+      319.410         369.410        -380.000        -330.000         360.041         410.041
+      544.410         594.410        -500.000        -450.000         365.041         415.041
+      414.410         464.410        -475.000        -425.000         325.041         375.041
+      439.410         489.410        -815.000        -765.000         310.041         360.041
+      3114.48         3164.48        -830.427        -780.427        -24.9585         25.0415
+      2708.85         2758.85         157.972         207.972         174.091         224.091
+      3185.62         3235.62         107.880         157.880         149.845         199.845
+      3058.21         3108.21         661.918         711.918         174.998         224.998
+      2518.42         2645.77         205.714         319.566         307.207         357.207
+      2977.13         3027.13         173.629         223.629         303.898         353.898
+      3041.99         3091.99         618.566         668.566         366.858         416.858
+      3068.50         3118.50         607.717         657.717         128.766         178.766
+      3020.43         3070.43         132.354         182.354         427.437         477.437
+      3252.32         3302.32         584.378         634.378         315.240         365.240
+      3239.89         3289.89         111.000         161.000         263.847         313.847
+      3112.34         3162.34         587.204         637.204         311.718         361.718
+      3112.36         3162.36         774.501         824.501         314.983         364.983
+      354.410         404.410         390.000         440.000         160.041         210.041
+      319.410         369.410         330.000         380.000         360.041         410.041
+      544.410         594.410         450.000         500.000         365.041         415.041
+      414.410         464.410         425.000         475.000         325.041         375.041
+      439.410         489.410         765.000         815.000         310.041         360.041
+      3114.48         3164.48         780.427         830.427        -24.9585         25.0415
+      2964.72         3014.72        -160.002        -110.002         360.568         410.568
+      2968.86         3018.86        -174.368        -124.368         391.403         472.766
+      574.410         624.410        -422.500        -372.500         258.441         308.441
+      2964.72         3014.72         110.002         160.002         360.568         410.568
+      2968.86         3018.86         124.368         174.368         391.403         472.766
+      574.410         624.410         372.500         422.500         258.441         308.441
+      2945.55         3044.18        -92.2840        -37.2840         530.562         580.562
+      2945.55         3044.18         37.2840         92.2840         530.562         580.562
+      3326.50         3391.50        -125.000        -75.0000         505.874         555.874
+      3326.50         3391.50         75.0000         125.000         505.874         555.874
+      3307.62         3357.62        -87.0000        -20.0000         228.278         278.278
+      3307.62         3357.62         20.0000         87.0000         228.278         278.278
+      351.410         401.410        -25.0000         25.0000         270.041         320.041
+      551.414         601.414        -236.291        -186.291         520.544         570.544
+      551.414         601.414         186.291         236.291         520.544         570.544
+      301.414         351.414        -204.598        -154.598         570.544         620.544
+      301.414         351.414         154.598         204.598         570.544         620.544
+      381.410         3363.28        -25.0000         25.0000         470.041         545.855
+      2793.26         3021.57        -25.0000         25.0000         449.001         499.001
+      2936.52         3005.03        -75.4710        -16.8420         485.842         535.842
+      2936.52         3005.03         16.8420         75.4710         485.842         535.842
+      2576.10         2636.76        -206.111        -156.111         429.263         487.215
+      2576.10         2636.76         156.111         206.111         429.263         487.215
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+            0           0
+TOLERANCES
+        1.000000000000E-10         5.000000000000E-02         5.000000000000E-02         5.000000000000E-03
+        1.000000000000E-05
+        5.000000000000E-02
+LOCAL_AXES
+            0           0
+            0           0
+TITLES
+            0
+TYRE
+           280.000000000              280.000000000              340.000000000              340.000000000
+ROLL SOLUTION
+            1
+GROUPS
+            2
+Points 1,2 and 3 (front)
+            3
+            1           1
+            2           1
+            3           1
+Points 3 and 7 (front)
+            2
+            3           1
+            7           1
+COMPLIANCE
+           1000.00000000
+   T
+            0
+            0
+      0.00000         300.000         246.500
+      0.00000         300.000         246.500
+      0.00000         300.000         246.500
+      400000.
+      40000.0
+     0.400000        0.400000
+            0           0
+      100000.
+            0
+      0.00000         300.000         217.203
+      0.00000         300.000         217.203
+      0.00000         300.000         246.500
+     0.100000E+07
+      10000.0
+     0.400000        0.400000
+            0           0
+      100000.
+           1.00000000000              100000000.000              10000000000.0              3.00000000000
+           1000.00000000              1000000.00000
+MODAL
+           16
+            1           0           1
+            1           0           1
+      1.00000         1000.00         1000.00         1000.00         0.00000         0.00000         0.00000
+      0.00000         0.00000         100.000
+      100.000         0.00000         0.00000
+      1.00000         1000.00         1000.00         1000.00         0.00000         0.00000         0.00000
+      0.00000         0.00000         100.000
+      100.000         0.00000         0.00000
+            1           0           1
+            1           0           1
+      1.00000         1000.00         1000.00         1000.00         0.00000         0.00000         0.00000
+      0.00000         0.00000         100.000
+      100.000         0.00000         0.00000
+      1.00000         1000.00         1000.00         1000.00         0.00000         0.00000         0.00000
+      0.00000         0.00000         100.000
+      100.000         0.00000         0.00000
+            1           0           1
+            1           0           1
+      1.00000         1000.00         1000.00         1000.00         0.00000         0.00000         0.00000
+      0.00000         0.00000         100.000
+      100.000         0.00000         0.00000
+      1.00000         1000.00         1000.00         1000.00         0.00000         0.00000         0.00000
+      0.00000         0.00000         100.000
+      100.000         0.00000         0.00000
+            1           0           1
+            1           0           1
+      1.00000         1000.00         1000.00         1000.00         0.00000         0.00000         0.00000
+      0.00000         0.00000         100.000
+      100.000         0.00000         0.00000
+      1.00000         1000.00         1000.00         1000.00         0.00000         0.00000         0.00000
+      0.00000         0.00000         100.000
+      100.000         0.00000         0.00000
+            1           0           1
+            1           0           1
+      1.00000         1000.00         1000.00         1000.00         0.00000         0.00000         0.00000
+      0.00000         0.00000         100.000
+      100.000         0.00000         0.00000
+      1.00000         1000.00         1000.00         1000.00         0.00000         0.00000         0.00000
+      0.00000         0.00000         100.000
+      100.000         0.00000         0.00000
+            1           0           1
+            1           0           1
+      1.00000         1000.00         1000.00         1000.00         0.00000         0.00000         0.00000
+      0.00000         0.00000         100.000
+      100.000         0.00000         0.00000
+      1.00000         1000.00         1000.00         1000.00         0.00000         0.00000         0.00000
+      0.00000         0.00000         100.000
+      100.000         0.00000         0.00000
+            1           0           1
+            1           0           1
+      1.00000         1000.00         1000.00         1000.00         0.00000         0.00000         0.00000
+      0.00000         0.00000         100.000
+      100.000         0.00000         0.00000
+      1.00000         1000.00         1000.00         1000.00         0.00000         0.00000         0.00000
+      0.00000         0.00000         100.000
+      100.000         0.00000         0.00000
+            1           0           1
+            1           0           1
+      1.00000         1000.00         1000.00         1000.00         0.00000         0.00000         0.00000
+      0.00000         0.00000         100.000
+      100.000         0.00000         0.00000
+      1.00000         1000.00         1000.00         1000.00         0.00000         0.00000         0.00000
+      0.00000         0.00000         100.000
+      100.000         0.00000         0.00000
+            1           0           1
+            1           0           1
+      1.00000         1000.00         1000.00         1000.00         0.00000         0.00000         0.00000
+      0.00000         0.00000         100.000
+      100.000         0.00000         0.00000
+      1.00000         1000.00         1000.00         1000.00         0.00000         0.00000         0.00000
+      0.00000         0.00000         100.000
+      100.000         0.00000         0.00000
+            1           0           1
+            1           0           1
+      1.00000         1000.00         1000.00         1000.00         0.00000         0.00000         0.00000
+      0.00000         0.00000         100.000
+      100.000         0.00000         0.00000
+      1.00000         1000.00         1000.00         1000.00         0.00000         0.00000         0.00000
+      0.00000         0.00000         100.000
+      100.000         0.00000         0.00000
+            1           0           1
+            1           0           1
+      1.00000         1000.00         1000.00         1000.00         0.00000         0.00000         0.00000
+      0.00000         0.00000         100.000
+      100.000         0.00000         0.00000
+      1.00000         1000.00         1000.00         1000.00         0.00000         0.00000         0.00000
+      0.00000         0.00000         100.000
+      100.000         0.00000         0.00000
+            1           0           1
+            1           0           1
+      1.00000         1000.00         1000.00         1000.00         0.00000         0.00000         0.00000
+      0.00000         0.00000         100.000
+      100.000         0.00000         0.00000
+      1.00000         1000.00         1000.00         1000.00         0.00000         0.00000         0.00000
+      0.00000         0.00000         100.000
+      100.000         0.00000         0.00000
+            1           0           1
+            1           0           1
+      1.00000         1000.00         1000.00         1000.00         0.00000         0.00000         0.00000
+      100.000         0.00000         0.00000
+      0.00000         0.00000         100.000
+      1.00000         1000.00         1000.00         1000.00         0.00000         0.00000         0.00000
+      100.000         0.00000         0.00000
+      0.00000         0.00000         100.000
+            1           0           1
+            1           0           1
+      1.00000         1000.00         1000.00         1000.00         0.00000         0.00000         0.00000
+      100.000         0.00000         0.00000
+      0.00000         0.00000         100.000
+      1.00000         1000.00         1000.00         1000.00         0.00000         0.00000         0.00000
+      100.000         0.00000         0.00000
+      0.00000         0.00000         100.000
+            1           0           1
+            1           0           1
+      1.00000         1000.00         1000.00         1000.00         0.00000         0.00000         0.00000
+      100.000         0.00000         0.00000
+      0.00000         0.00000         100.000
+      1.00000         1000.00         1000.00         1000.00         0.00000         0.00000         0.00000
+      100.000         0.00000         0.00000
+      0.00000         0.00000         100.000
+            1           0           1
+            1           0           1
+      1.00000         1000.00         1000.00         1000.00         0.00000         0.00000         0.00000
+      100.000         0.00000         0.00000
+      0.00000         0.00000         100.000
+      1.00000         1000.00         1000.00         1000.00         0.00000         0.00000         0.00000
+      100.000         0.00000         0.00000
+      0.00000         0.00000         100.000
+           16
+            1           0           1
+            1           0           1
+      1.00000         1000.00         1000.00         1000.00         0.00000         0.00000         0.00000
+      0.00000         0.00000         100.000
+      100.000         0.00000         0.00000
+      1.00000         1000.00         1000.00         1000.00         0.00000         0.00000         0.00000
+      0.00000         0.00000         100.000
+      100.000         0.00000         0.00000
+            1           0           1
+            1           0           1
+      1.00000         1000.00         1000.00         1000.00         0.00000         0.00000         0.00000
+      0.00000         0.00000         100.000
+      100.000         0.00000         0.00000
+      1.00000         1000.00         1000.00         1000.00         0.00000         0.00000         0.00000
+      0.00000         0.00000         100.000
+      100.000         0.00000         0.00000
+            1           0           1
+            1           0           1
+      1.00000         1000.00         1000.00         1000.00         0.00000         0.00000         0.00000
+      0.00000         0.00000         100.000
+      100.000         0.00000         0.00000
+      1.00000         1000.00         1000.00         1000.00         0.00000         0.00000         0.00000
+      0.00000         0.00000         100.000
+      100.000         0.00000         0.00000
+            1           0           1
+            1           0           1
+      1.00000         1000.00         1000.00         1000.00         0.00000         0.00000         0.00000
+      0.00000         0.00000         100.000
+      100.000         0.00000         0.00000
+      1.00000         1000.00         1000.00         1000.00         0.00000         0.00000         0.00000
+      0.00000         0.00000         100.000
+      100.000         0.00000         0.00000
+            1           0           1
+            1           0           1
+      1.00000         1000.00         1000.00         1000.00         0.00000         0.00000         0.00000
+      0.00000         0.00000         100.000
+      100.000         0.00000         0.00000
+      1.00000         1000.00         1000.00         1000.00         0.00000         0.00000         0.00000
+      0.00000         0.00000         100.000
+      100.000         0.00000         0.00000
+            1           0           1
+            1           0           1
+      1.00000         1000.00         1000.00         1000.00         0.00000         0.00000         0.00000
+      0.00000         0.00000         100.000
+      100.000         0.00000         0.00000
+      1.00000         1000.00         1000.00         1000.00         0.00000         0.00000         0.00000
+      0.00000         0.00000         100.000
+      100.000         0.00000         0.00000
+            1           0           1
+            1           0           1
+      1.00000         1000.00         1000.00         1000.00         0.00000         0.00000         0.00000
+      0.00000         0.00000         100.000
+      100.000         0.00000         0.00000
+      1.00000         1000.00         1000.00         1000.00         0.00000         0.00000         0.00000
+      0.00000         0.00000         100.000
+      100.000         0.00000         0.00000
+            1           0           1
+            1           0           1
+      1.00000         1000.00         1000.00         1000.00         0.00000         0.00000         0.00000
+      0.00000         0.00000         100.000
+      100.000         0.00000         0.00000
+      1.00000         1000.00         1000.00         1000.00         0.00000         0.00000         0.00000
+      0.00000         0.00000         100.000
+      100.000         0.00000         0.00000
+            1           0           1
+            1           0           1
+      1.00000         1000.00         1000.00         1000.00         0.00000         0.00000         0.00000
+      0.00000         0.00000         100.000
+      100.000         0.00000         0.00000
+      1.00000         1000.00         1000.00         1000.00         0.00000         0.00000         0.00000
+      0.00000         0.00000         100.000
+      100.000         0.00000         0.00000
+            1           0           1
+            1           0           1
+      1.00000         1000.00         1000.00         1000.00         0.00000         0.00000         0.00000
+      0.00000         0.00000         100.000
+      100.000         0.00000         0.00000
+      1.00000         1000.00         1000.00         1000.00         0.00000         0.00000         0.00000
+      0.00000         0.00000         100.000
+      100.000         0.00000         0.00000
+            1           0           1
+            1           0           1
+      1.00000         1000.00         1000.00         1000.00         0.00000         0.00000         0.00000
+      0.00000         0.00000         100.000
+      100.000         0.00000         0.00000
+      1.00000         1000.00         1000.00         1000.00         0.00000         0.00000         0.00000
+      0.00000         0.00000         100.000
+      100.000         0.00000         0.00000
+            1           0           1
+            1           0           1
+      1.00000         1000.00         1000.00         1000.00         0.00000         0.00000         0.00000
+      0.00000         0.00000         100.000
+      100.000         0.00000         0.00000
+      1.00000         1000.00         1000.00         1000.00         0.00000         0.00000         0.00000
+      0.00000         0.00000         100.000
+      100.000         0.00000         0.00000
+            1           0           1
+            1           0           1
+      1.00000         1000.00         1000.00         1000.00         0.00000         0.00000         0.00000
+      0.00000         0.00000         100.000
+      100.000         0.00000         0.00000
+      1.00000         1000.00         1000.00         1000.00         0.00000         0.00000         0.00000
+      0.00000         0.00000         100.000
+      100.000         0.00000         0.00000
+            1           0           1
+            1           0           1
+      1.00000         1000.00         1000.00         1000.00         0.00000         0.00000         0.00000
+      0.00000         0.00000         100.000
+      100.000         0.00000         0.00000
+      1.00000         1000.00         1000.00         1000.00         0.00000         0.00000         0.00000
+      0.00000         0.00000         100.000
+      100.000         0.00000         0.00000
+            1           0           1
+            1           0           1
+      1.00000         1000.00         1000.00         1000.00         0.00000         0.00000         0.00000
+      0.00000         0.00000         100.000
+      100.000         0.00000         0.00000
+      1.00000         1000.00         1000.00         1000.00         0.00000         0.00000         0.00000
+      0.00000         0.00000         100.000
+      100.000         0.00000         0.00000
+            1           0           1
+            1           0           1
+      1.00000         1000.00         1000.00         1000.00         0.00000         0.00000         0.00000
+      0.00000         0.00000         100.000
+      100.000         0.00000         0.00000
+      1.00000         1000.00         1000.00         1000.00         0.00000         0.00000         0.00000
+      0.00000         0.00000         100.000
+      100.000         0.00000         0.00000
+FSETS
+User Definable Default Set
+            2
+            2
+      1.00000
+      1.00000
+      0.00000
+      0.00000
+      0.00000
+      0.00000
+            3
+      1.00000
+      1.00000
+      0.00000
+      0.00000
+      0.00000
+      0.00000
+RAVEN_DEFAULTS
+           16           7
+      0.00000
+      0.00000
+      0.00000
+      1250.00
+      500.000
+      2500.00
+      3000.00
+      2.00000
+      2.00000
+      16.0000
+      1800.00
+      1500.00
+      1.00000
+      1.00000
+      4.00000
+      1000.00
+      50.0000         50.0000         50.0000         50.0000
+      10.0000         10.0000         10.0000         10.0000
+      400.000         400.000         400.000         400.000
+      1.00000         1.00000         1.00000         1.00000
+      18.1000         18.1000         18.1000         18.1000
+     6.900000E-02    6.900000E-02    6.900000E-02    6.900000E-02
+      3.00000         3.00000         3.00000         3.00000
+FORCED_DAMP
+            1
+           3.00000000000
+ACTIVE_CONTROL
+            1
+            0           0           0           0
+DRIVE_SHAFTS
+            2
+      65.0000
+            0           0           0           0
+            0           0           0           0
+TOOL_BOX
+            0
+COMBINED_MOTION
+           37
+ 
+     -60.0000        -60.0000         0.00000         0.00000
+ 
+     -60.0000        -60.0000         5.00000         0.00000
+ 
+     -60.0000        -60.0000         10.0000         0.00000
+ 
+     -60.0000        -60.0000         15.0000         0.00000
+ 
+     -60.0000        -60.0000         20.0000         0.00000
+ 
+     -60.0000        -60.0000         25.0000         0.00000
+ 
+     -60.0000        -60.0000         30.0000         0.00000
+ 
+     -40.0000        -40.0000         30.0000         0.00000
+ 
+     -20.0000        -20.0000         30.0000         0.00000
+[static]
+      0.00000         0.00000         30.0000         0.00000
+ 
+      20.0000         20.0000         30.0000         0.00000
+ 
+      40.0000         40.0000         30.0000         0.00000
+ 
+      60.0000         60.0000         30.0000         0.00000
+ 
+      60.0000         60.0000         25.0000         0.00000
+ 
+      60.0000         60.0000         20.0000         0.00000
+ 
+      60.0000         60.0000         15.0000         0.00000
+ 
+      60.0000         60.0000         10.0000         0.00000
+ 
+      60.0000         60.0000         5.00000         0.00000
+ 
+      60.0000         60.0000         0.00000         0.00000
+ 
+      60.0000         60.0000        -5.00000         0.00000
+ 
+      60.0000         60.0000        -10.0000         0.00000
+ 
+      60.0000         60.0000        -15.0000         0.00000
+ 
+      60.0000         60.0000        -20.0000         0.00000
+ 
+      60.0000         60.0000        -25.0000         0.00000
+ 
+      60.0000         60.0000        -30.0000         0.00000
+ 
+      40.0000         40.0000        -30.0000         0.00000
+ 
+      20.0000         20.0000        -30.0000         0.00000
+ 
+      0.00000         0.00000        -30.0000         0.00000
+ 
+     -20.0000        -20.0000        -30.0000         0.00000
+ 
+     -40.0000        -40.0000        -30.0000         0.00000
+ 
+     -60.0000        -60.0000        -30.0000         0.00000
+ 
+     -60.0000        -60.0000        -25.0000         0.00000
+ 
+     -60.0000        -60.0000        -20.0000         0.00000
+ 
+     -60.0000        -60.0000        -15.0000         0.00000
+ 
+     -60.0000        -60.0000        -10.0000         0.00000
+ 
+     -60.0000        -60.0000        -5.00000         0.00000
+ 
+     -60.0000        -60.0000         0.00000         0.00000

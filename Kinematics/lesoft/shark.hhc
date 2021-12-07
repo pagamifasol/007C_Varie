@@ -1,0 +1,982 @@
+<HTML>
+<!--Sitemap 1.0-->
+<OBJECT type="text/site properties">
+</OBJECT>
+<UL>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="Introduction">
+		</OBJECT>
+	<UL>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Lotus Suspension Analysis - SHARK">
+			<param name="Local" value="html/shar8p9t.htm">
+			</OBJECT>
+			<A HREF="html/shar8p9t.htm">Lotus Suspension Analysis - SHARK</A><BR>
+	</UL>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="Overview">
+		</OBJECT>
+	<UL>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Introduction">
+			<param name="Local" value="html/shar59kh.htm">
+			</OBJECT>
+			<A HREF="html/shar59kh.htm">Introduction</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Modules">
+			<param name="Local" value="html/shar59ki.htm">
+			</OBJECT>
+			<A HREF="html/shar59ki.htm">Modules</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Units">
+			<param name="Local" value="html/shar70jc.htm">
+			</OBJECT>
+			<A HREF="html/shar70jc.htm">Units</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="2D Suspension Types">
+			<param name="Local" value="html/shar59kj.htm">
+			</OBJECT>
+			<A HREF="html/shar59kj.htm">2D Suspension Types</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="3D Suspension Types">
+			<param name="Local" value="html/shar59kk.htm">
+			</OBJECT>
+			<A HREF="html/shar59kk.htm">3D Suspension Types</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="3D Steering Types">
+			<param name="Local" value="html/shar59kl.htm">
+			</OBJECT>
+			<A HREF="html/shar59kl.htm">3D Steering Types</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Graphical Interface">
+			<param name="Local" value="html/shar59km.htm">
+			</OBJECT>
+			<A HREF="html/shar59km.htm">Graphical Interface</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Hard Point Editing">
+			<param name="Local" value="html/shar70j5.htm">
+			</OBJECT>
+			<A HREF="html/shar70j5.htm">Hard Point Editing</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Hard Point Dragging">
+			<param name="Local" value="html/shar59kn.htm">
+			</OBJECT>
+			<A HREF="html/shar59kn.htm">Hard Point Dragging</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Groups">
+			<param name="Local" value="html/shar59ko.htm">
+			</OBJECT>
+			<A HREF="html/shar59ko.htm">Groups</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Dynamic Viewing">
+			<param name="Local" value="html/shar59kp.htm">
+			</OBJECT>
+			<A HREF="html/shar59kp.htm">Dynamic Viewing</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="The 2D Module">
+			<param name="Local" value="html/shar70fk.htm">
+			</OBJECT>
+			<A HREF="html/shar70fk.htm">The 2D Module</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="2D Suspension Derivatives">
+			<param name="Local" value="html/shar70fl.htm">
+			</OBJECT>
+			<A HREF="html/shar70fl.htm">2D Suspension Derivatives</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="3D Suspension Derivatives">
+			<param name="Local" value="html/shar70fm.htm">
+			</OBJECT>
+			<A HREF="html/shar70fm.htm">3D Suspension Derivatives</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Limit Boxes">
+			<param name="Local" value="html/shar70fn.htm">
+			</OBJECT>
+			<A HREF="html/shar70fn.htm">Limit Boxes</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Graphs">
+			<param name="Local" value="html/shar70fo.htm">
+			</OBJECT>
+			<A HREF="html/shar70fo.htm">Graphs</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Enhanced Graphics">
+			<param name="Local" value="html/shar70fp.htm">
+			</OBJECT>
+			<A HREF="html/shar70fp.htm">Enhanced Graphics</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Defaults">
+			<param name="Local" value="html/shar70fq.htm">
+			</OBJECT>
+			<A HREF="html/shar70fq.htm">Defaults</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Data Entry">
+			<param name="Local" value="html/shar70fr.htm">
+			</OBJECT>
+			<A HREF="html/shar70fr.htm">Data Entry</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Saving Hard Points">
+			<param name="Local" value="html/shar70fs.htm">
+			</OBJECT>
+			<A HREF="html/shar70fs.htm">Saving Hard Points</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Animation">
+			<param name="Local" value="html/shar70ft.htm">
+			</OBJECT>
+			<A HREF="html/shar70ft.htm">Animation</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Edit undo">
+			<param name="Local" value="html/shar70hc.htm">
+			</OBJECT>
+			<A HREF="html/shar70hc.htm">Edit undo</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Converting 2D to 3D">
+			<param name="Local" value="html/shar70hd.htm">
+			</OBJECT>
+			<A HREF="html/shar70hd.htm">Converting 2D to 3D</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Managing User Lines">
+			<param name="Local" value="html/shar70he.htm">
+			</OBJECT>
+			<A HREF="html/shar70he.htm">Managing User Lines</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Compliance Solving">
+			<param name="Local" value="html/shar70hf.htm">
+			</OBJECT>
+			<A HREF="html/shar70hf.htm">Compliance Solving</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Compliance Bushes">
+			<param name="Local" value="html/shar70hg.htm">
+			</OBJECT>
+			<A HREF="html/shar70hg.htm">Compliance Bushes</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Compliance External forces">
+			<param name="Local" value="html/shar70hh.htm">
+			</OBJECT>
+			<A HREF="html/shar70hh.htm">Compliance External forces</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Compliance Coefficients">
+			<param name="Local" value="html/shar70hi.htm">
+			</OBJECT>
+			<A HREF="html/shar70hi.htm">Compliance Coefficients</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Deformed Geometry Animation">
+			<param name="Local" value="html/shar70hj.htm">
+			</OBJECT>
+			<A HREF="html/shar70hj.htm">Deformed Geometry Animation</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Hard Point Joggle">
+			<param name="Local" value="html/shar70hk.htm">
+			</OBJECT>
+			<A HREF="html/shar70hk.htm">Hard Point Joggle</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Point Coincedence">
+			<param name="Local" value="html/shar70hl.htm">
+			</OBJECT>
+			<A HREF="html/shar70hl.htm">Point Coincedence</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Data File Text Editor">
+			<param name="Local" value="html/shar70j4.htm">
+			</OBJECT>
+			<A HREF="html/shar70j4.htm">Data File Text Editor</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Import and Export to Adams Sub Systems">
+			<param name="Local" value="html/shar70j6.htm">
+			</OBJECT>
+			<A HREF="html/shar70j6.htm">Import and Export to Adams Sub Systems</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Adding a Hard Point to a Model">
+			<param name="Local" value="html/shar70j7.htm">
+			</OBJECT>
+			<A HREF="html/shar70j7.htm">Adding a Hard Point to a Model</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Adding Graphics to a Model">
+			<param name="Local" value="html/shar70j8.htm">
+			</OBJECT>
+			<A HREF="html/shar70j8.htm">Adding Graphics to a Model</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Free Body Graphical Display">
+			<param name="Local" value="html/shar70j9.htm">
+			</OBJECT>
+			<A HREF="html/shar70j9.htm">Free Body Graphical Display</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Kinematic Sum Display">
+			<param name="Local" value="html/shar70ja.htm">
+			</OBJECT>
+			<A HREF="html/shar70ja.htm">Kinematic Sum Display</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="The Internal Optimizer">
+			<param name="Local" value="html/shar70jb.htm">
+			</OBJECT>
+			<A HREF="html/shar70jb.htm">The Internal Optimizer</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Modal Analysis">
+			<param name="Local" value="html/shar70jd.htm">
+			</OBJECT>
+			<A HREF="html/shar70jd.htm">Modal Analysis</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Forced-Damped Analysis">
+			<param name="Local" value="html/shar70kw.htm">
+			</OBJECT>
+			<A HREF="html/shar70kw.htm">Forced-Damped Analysis</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Creating a Full Axle Model">
+			<param name="Local" value="html/shar70kx.htm">
+			</OBJECT>
+			<A HREF="html/shar70kx.htm">Creating a Full Axle Model</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="User Defined Custom Controls">
+			<param name="Local" value="html/shar70ky.htm">
+			</OBJECT>
+			<A HREF="html/shar70ky.htm">User Defined Custom Controls</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Auto-Search and Load">
+			<param name="Local" value="html/shar70kz.htm">
+			</OBJECT>
+			<A HREF="html/shar70kz.htm">Auto-Search and Load</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Component-Setup Toolbox">
+			<param name="Local" value="html/shar70l0.htm">
+			</OBJECT>
+			<A HREF="html/shar70l0.htm">Component-Setup Toolbox</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Definition Values">
+			<param name="Local" value="html/shar70l1.htm">
+			</OBJECT>
+			<A HREF="html/shar70l1.htm">Definition Values</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Drive Shafts">
+			<param name="Local" value="html/shar70l2.htm">
+			</OBJECT>
+			<A HREF="html/shar70l2.htm">Drive Shafts</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="User Defined SDF's">
+			<param name="Local" value="html/shar70l3.htm">
+			</OBJECT>
+			<A HREF="html/shar70l3.htm">User Defined SDF's</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Control Elements">
+			<param name="Local" value="html/shar70l4.htm">
+			</OBJECT>
+			<A HREF="html/shar70l4.htm">Control Elements</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Spacers">
+			<param name="Local" value="html/shar70l5.htm">
+			</OBJECT>
+			<A HREF="html/shar70l5.htm">Spacers</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Batch Mode">
+			<param name="Local" value="html/shar70mo.htm">
+			</OBJECT>
+			<A HREF="html/shar70mo.htm">Batch Mode</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="User Language">
+			<param name="Local" value="html/shar70mp.htm">
+			</OBJECT>
+			<A HREF="html/shar70mp.htm">User Language</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Reports">
+			<param name="Local" value="html/shar70mq.htm">
+			</OBJECT>
+			<A HREF="html/shar70mq.htm">Reports</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Flexible Parts">
+			<param name="Local" value="html/shar70mr.htm">
+			</OBJECT>
+			<A HREF="html/shar70mr.htm">Flexible Parts</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Interactive Template Builder">
+			<param name="Local" value="html/shar70ms.htm">
+			</OBJECT>
+			<A HREF="html/shar70ms.htm">Interactive Template Builder</A><BR>
+	</UL>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="Getting Started">
+		</OBJECT>
+	<UL>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Start-up Steps">
+			<param name="Local" value="html/shar9nld.htm">
+			</OBJECT>
+			<A HREF="html/shar9nld.htm">Start-up Steps</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Program Start-up">
+			<param name="Local" value="html/shar9nle.htm">
+			</OBJECT>
+			<A HREF="html/shar9nle.htm">Program Start-up</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Start-up Errors">
+			<param name="Local" value="html/shar9nlf.htm">
+			</OBJECT>
+			<A HREF="html/shar9nlf.htm">Start-up Errors</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Graphics Frame Type">
+			<param name="Local" value="html/shar9nlg.htm">
+			</OBJECT>
+			<A HREF="html/shar9nlg.htm">Graphics Frame Type</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Window Descriptions">
+			<param name="Local" value="html/shar9nlh.htm">
+			</OBJECT>
+			<A HREF="html/shar9nlh.htm">Window Descriptions</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Module Type">
+			<param name="Local" value="html/shar9nli.htm">
+			</OBJECT>
+			<A HREF="html/shar9nli.htm">Module Type</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Data Entry">
+			<param name="Local" value="html/shar9nlj.htm">
+			</OBJECT>
+			<A HREF="html/shar9nlj.htm">Data Entry</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Exiting the Program">
+			<param name="Local" value="html/shar9nlk.htm">
+			</OBJECT>
+			<A HREF="html/shar9nlk.htm">Exiting the Program</A><BR>
+	</UL>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="Menu Decriptions">
+		</OBJECT>
+	<UL>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Pull Down Menu Items">
+			</OBJECT>
+		<UL>
+			<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="File">
+				<param name="Local" value="html/shar31m9.htm">
+				</OBJECT>
+				<A HREF="html/shar31m9.htm">File</A><BR>
+			<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="Module">
+				<param name="Local" value="html/shar31ma.htm">
+				</OBJECT>
+				<A HREF="html/shar31ma.htm">Module</A><BR>
+			<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="Data">
+				<param name="Local" value="html/shar31mb.htm">
+				</OBJECT>
+				<A HREF="html/shar31mb.htm">Data</A><BR>
+			<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="Edit">
+				<param name="Local" value="html/shar31mc.htm">
+				</OBJECT>
+				<A HREF="html/shar31mc.htm">Edit</A><BR>
+			<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="View">
+				<param name="Local" value="html/shar31md.htm">
+				</OBJECT>
+				<A HREF="html/shar31md.htm">View</A><BR>
+			<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="Tracking">
+				<param name="Local" value="html/shar31me.htm">
+				</OBJECT>
+				<A HREF="html/shar31me.htm">Tracking</A><BR>
+			<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="Graphics">
+				<param name="Local" value="html/shar31mf.htm">
+				</OBJECT>
+				<A HREF="html/shar31mf.htm">Graphics</A><BR>
+			<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="Graphs">
+				<param name="Local" value="html/shar31mg.htm">
+				</OBJECT>
+				<A HREF="html/shar31mg.htm">Graphs</A><BR>
+			<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="Solve">
+				<param name="Local" value="html/shar31mh.htm">
+				</OBJECT>
+				<A HREF="html/shar31mh.htm">Solve</A><BR>
+			<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="Results">
+				<param name="Local" value="html/shar4vlc.htm">
+				</OBJECT>
+				<A HREF="html/shar4vlc.htm">Results</A><BR>
+			<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="Setup">
+				<param name="Local" value="html/shar4vld.htm">
+				</OBJECT>
+				<A HREF="html/shar4vld.htm">Setup</A><BR>
+			<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="Window">
+				<param name="Local" value="html/shar4vle.htm">
+				</OBJECT>
+				<A HREF="html/shar4vle.htm">Window</A><BR>
+			<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="Help">
+				<param name="Local" value="html/shar4vlf.htm">
+				</OBJECT>
+				<A HREF="html/shar4vlf.htm">Help</A><BR>
+		</UL>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Mouse Right Button Menu Items">
+			</OBJECT>
+		<UL>
+			<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="Graphics Menu Actions">
+				<param name="Local" value="html/shar01kh.htm">
+				</OBJECT>
+				<A HREF="html/shar01kh.htm">Graphics Menu Actions</A><BR>
+			<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="Graph Menu Items">
+				<param name="Local" value="html/shar01ki.htm">
+				</OBJECT>
+				<A HREF="html/shar01ki.htm">Graph Menu Items</A><BR>
+			<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="Compliance Coefficients Display Items">
+				<param name="Local" value="html/shar01kj.htm">
+				</OBJECT>
+				<A HREF="html/shar01kj.htm">Compliance Coefficients Display Items</A><BR>
+		</UL>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Menu Trees">
+			</OBJECT>
+		<UL>
+			<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="Graphics Switches">
+				<param name="Local" value="html/shar5pyp.htm">
+				</OBJECT>
+				<A HREF="html/shar5pyp.htm">Graphics Switches</A><BR>
+			<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="Edit Menus">
+				<param name="Local" value="html/shar5pyq.htm">
+				</OBJECT>
+				<A HREF="html/shar5pyq.htm">Edit Menus</A><BR>
+		</UL>
+	</UL>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="Icon Descriptions">
+		</OBJECT>
+	<UL>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="General">
+			<param name="Local" value="html/shar3icx.htm">
+			</OBJECT>
+			<A HREF="html/shar3icx.htm">General</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="File Toolbar">
+			<param name="Local" value="html/shar3icy.htm">
+			</OBJECT>
+			<A HREF="html/shar3icy.htm">File Toolbar</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="View Toolbar">
+			<param name="Local" value="html/shar3icz.htm">
+			</OBJECT>
+			<A HREF="html/shar3icz.htm">View Toolbar</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Graphics Toolbar">
+			<param name="Local" value="html/shar3id0.htm">
+			</OBJECT>
+			<A HREF="html/shar3id0.htm">Graphics Toolbar</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Graphs + Data Toolbar">
+			<param name="Local" value="html/shar3id1.htm">
+			</OBJECT>
+			<A HREF="html/shar3id1.htm">Graphs + Data Toolbar</A><BR>
+	</UL>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="Data Requirements">
+		</OBJECT>
+	<UL>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Introduction">
+			<param name="Local" value="html/shar4q29.htm">
+			</OBJECT>
+			<A HREF="html/shar4q29.htm">Introduction</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Co-ordinate System">
+			<param name="Local" value="html/shar4q2a.htm">
+			</OBJECT>
+			<A HREF="html/shar4q2a.htm">Co-ordinate System</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="2D Module">
+			</OBJECT>
+		<UL>
+			<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="2D Data Requirements">
+				<param name="Local" value="html/shar4q2b.htm">
+				</OBJECT>
+				<A HREF="html/shar4q2b.htm">2D Data Requirements</A><BR>
+			<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="2D Suspension Type">
+				<param name="Local" value="html/shar4q2c.htm">
+				</OBJECT>
+				<A HREF="html/shar4q2c.htm">2D Suspension Type</A><BR>
+			<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="2D General Data">
+				<param name="Local" value="html/shar4q2d.htm">
+				</OBJECT>
+				<A HREF="html/shar4q2d.htm">2D General Data</A><BR>
+			<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="2D Suspension Types Data">
+				</OBJECT>
+			<UL>
+				<LI><OBJECT type="text/sitemap">
+					<param name="Name" value="2D Double Wishbone Suspension Hard Points">
+					<param name="Local" value="html/shar4q2e.htm">
+					</OBJECT>
+					<A HREF="html/shar4q2e.htm">2D Double Wishbone Suspension Hard Points</A><BR>
+				<LI><OBJECT type="text/sitemap">
+					<param name="Name" value="2D Macpherson Strut Suspension Hard Points">
+					<param name="Local" value="html/shar4q2f.htm">
+					</OBJECT>
+					<A HREF="html/shar4q2f.htm">2D Macpherson Strut Suspension Hard Points</A><BR>
+			</UL>
+		</UL>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="3D Module">
+			</OBJECT>
+		<UL>
+			<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="3D Data Requirements">
+				<param name="Local" value="html/shar4q2g.htm">
+				</OBJECT>
+				<A HREF="html/shar4q2g.htm">3D Data Requirements</A><BR>
+			<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="3D Suspension End">
+				<param name="Local" value="html/shar4q2h.htm">
+				</OBJECT>
+				<A HREF="html/shar4q2h.htm">3D Suspension End</A><BR>
+			<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="3D Suspension Type">
+				<param name="Local" value="html/shar2c1c.htm">
+				</OBJECT>
+				<A HREF="html/shar2c1c.htm">3D Suspension Type</A><BR>
+			<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="3D General Data (Parameters)">
+				<param name="Local" value="html/shar2c1d.htm">
+				</OBJECT>
+				<A HREF="html/shar2c1d.htm">3D General Data (Parameters)</A><BR>
+			<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="3D BodyType">
+				<param name="Local" value="html/shar2c1e.htm">
+				</OBJECT>
+				<A HREF="html/shar2c1e.htm">3D BodyType</A><BR>
+			<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="3D Tyre Data">
+				<param name="Local" value="html/shar2c1f.htm">
+				</OBJECT>
+				<A HREF="html/shar2c1f.htm">3D Tyre Data</A><BR>
+			<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="3D Spring Data">
+				<param name="Local" value="html/shar2c6s.htm">
+				</OBJECT>
+				<A HREF="html/shar2c6s.htm">3D Spring Data</A><BR>
+			<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="3D Damper Data">
+				<param name="Local" value="html/shar2ca8.htm">
+				</OBJECT>
+				<A HREF="html/shar2ca8.htm">3D Damper Data</A><BR>
+			<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="3D Roll Bar Properties">
+				<param name="Local" value="html/shar2ca9.htm">
+				</OBJECT>
+				<A HREF="html/shar2ca9.htm">3D Roll Bar Properties</A><BR>
+			<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="3D Steering Type">
+				<param name="Local" value="html/shar2c1g.htm">
+				</OBJECT>
+				<A HREF="html/shar2c1g.htm">3D Steering Type</A><BR>
+			<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="3D Comments">
+				<param name="Local" value="html/shar2c1h.htm">
+				</OBJECT>
+				<A HREF="html/shar2c1h.htm">3D Comments</A><BR>
+			<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="3D Bush Properties">
+				<param name="Local" value="html/shar2c1i.htm">
+				</OBJECT>
+				<A HREF="html/shar2c1i.htm">3D Bush Properties</A><BR>
+			<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="3D External Force Data">
+				<param name="Local" value="html/shar2c1j.htm">
+				</OBJECT>
+				<A HREF="html/shar2c1j.htm">3D External Force Data</A><BR>
+			<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="3D C of G Properties">
+				<param name="Local" value="html/shar2c8p.htm">
+				</OBJECT>
+				<A HREF="html/shar2c8p.htm">3D C of G Properties</A><BR>
+			<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="3D Suspension Types Data">
+				</OBJECT>
+			<UL>
+				<LI><OBJECT type="text/sitemap">
+					<param name="Name" value="Type 1: Double Wishbone, Damper to Lower Wishbone">
+					<param name="Local" value="html/shar2c1k.htm">
+					</OBJECT>
+					<A HREF="html/shar2c1k.htm">Type 1: Double Wishbone, Damper to Lower Wishbone</A><BR>
+				<LI><OBJECT type="text/sitemap">
+					<param name="Name" value="Type 2: 'H' Frame Lower, Single Upper Link">
+					<param name="Local" value="html/shar2c1l.htm">
+					</OBJECT>
+					<A HREF="html/shar2c1l.htm">Type 2: 'H' Frame Lower, Single Upper Link</A><BR>
+				<LI><OBJECT type="text/sitemap">
+					<param name="Name" value="Type 3: Steerable Macpherson Strut">
+					<param name="Local" value="html/shar2c34.htm">
+					</OBJECT>
+					<A HREF="html/shar2c34.htm">Type 3: Steerable Macpherson Strut</A><BR>
+				<LI><OBJECT type="text/sitemap">
+					<param name="Name" value="Type 4: Non-Steerable Macpherson Strut, Twin Lower Link">
+					<param name="Local" value="html/shar2c35.htm">
+					</OBJECT>
+					<A HREF="html/shar2c35.htm">Type 4: Non-Steerable Macpherson Strut, Twin Lower Link</A><BR>
+				<LI><OBJECT type="text/sitemap">
+					<param name="Name" value="Type 5: 5-link Rigid Axle (panhard rod)">
+					<param name="Local" value="html/shar2c8i.htm">
+					</OBJECT>
+					<A HREF="html/shar2c8i.htm">Type 5: 5-link Rigid Axle (panhard rod)</A><BR>
+				<LI><OBJECT type="text/sitemap">
+					<param name="Name" value="Type 6: Double Wishbone, Damper to Upper Wishbone">
+					<param name="Local" value="html/shar2c36.htm">
+					</OBJECT>
+					<A HREF="html/shar2c36.htm">Type 6: Double Wishbone, Damper to Upper Wishbone</A><BR>
+				<LI><OBJECT type="text/sitemap">
+					<param name="Name" value="Type 7: Non-Steerable Macpherson Strut, Toe Link to wishbone">
+					<param name="Local" value="html/shar2c37.htm">
+					</OBJECT>
+					<A HREF="html/shar2c37.htm">Type 7: Non-Steerable Macpherson Strut, Toe Link to wishbone</A><BR>
+				<LI><OBJECT type="text/sitemap">
+					<param name="Name" value="Type 8: 4-link Rigid Axle (panhard rod)">
+					<param name="Local" value="html/shar2c8j.htm">
+					</OBJECT>
+					<A HREF="html/shar2c8j.htm">Type 8: 4-link Rigid Axle (panhard rod)</A><BR>
+				<LI><OBJECT type="text/sitemap">
+					<param name="Name" value="Type 9: 4-link Rigid Axle (twin upper)">
+					<param name="Local" value="html/shar2c8k.htm">
+					</OBJECT>
+					<A HREF="html/shar2c8k.htm">Type 9: 4-link Rigid Axle (twin upper)</A><BR>
+				<LI><OBJECT type="text/sitemap">
+					<param name="Name" value="Type 10: Trailing Arm, Upper and Lower Rear Links">
+					<param name="Local" value="html/shar2c38.htm">
+					</OBJECT>
+					<A HREF="html/shar2c38.htm">Type 10: Trailing Arm, Upper and Lower Rear Links</A><BR>
+				<LI><OBJECT type="text/sitemap">
+					<param name="Name" value="Type 11: Semi Trailing Arm">
+					<param name="Local" value="html/shar2c39.htm">
+					</OBJECT>
+					<A HREF="html/shar2c39.htm">Type 11: Semi Trailing Arm</A><BR>
+				<LI><OBJECT type="text/sitemap">
+					<param name="Name" value="Type 12: Steerable Twin Parallel Wishbones and Knuckle">
+					<param name="Local" value="html/shar2c3a.htm">
+					</OBJECT>
+					<A HREF="html/shar2c3a.htm">Type 12: Steerable Twin Parallel Wishbones and Knuckle</A><BR>
+				<LI><OBJECT type="text/sitemap">
+					<param name="Name" value="Type 14: Double Wishbone, Push Rod to Damper">
+					<param name="Local" value="html/shar2c3b.htm">
+					</OBJECT>
+					<A HREF="html/shar2c3b.htm">Type 14: Double Wishbone, Push Rod to Damper</A><BR>
+				<LI><OBJECT type="text/sitemap">
+					<param name="Name" value="Type 15: Double Wishbone, Rocker Arm Damper">
+					<param name="Local" value="html/shar2c3c.htm">
+					</OBJECT>
+					<A HREF="html/shar2c3c.htm">Type 15: Double Wishbone, Rocker Arm Damper</A><BR>
+				<LI><OBJECT type="text/sitemap">
+					<param name="Name" value="Type 16: Non-Steerable Lower 'A' with Toe Link">
+					<param name="Local" value="html/shar2c3d.htm">
+					</OBJECT>
+					<A HREF="html/shar2c3d.htm">Type 16: Non-Steerable Lower 'A' with Toe Link</A><BR>
+				<LI><OBJECT type="text/sitemap">
+					<param name="Name" value="Type 17: Double Wishbone, Pushrod Monoshock">
+					<param name="Local" value="html/shar2c4w.htm">
+					</OBJECT>
+					<A HREF="html/shar2c4w.htm">Type 17: Double Wishbone, Pushrod Monoshock</A><BR>
+				<LI><OBJECT type="text/sitemap">
+					<param name="Name" value="Type 18: Double Wishbone, Upper Toe Link and 'S' Link">
+					<param name="Local" value="html/shar2c4x.htm">
+					</OBJECT>
+					<A HREF="html/shar2c4x.htm">Type 18: Double Wishbone, Upper Toe Link and 'S' Link</A><BR>
+				<LI><OBJECT type="text/sitemap">
+					<param name="Name" value="Type 19: Hinged Trailing Arm, Twin Lower Link">
+					<param name="Local" value="html/shar2c4y.htm">
+					</OBJECT>
+					<A HREF="html/shar2c4y.htm">Type 19: Hinged Trailing Arm, Twin Lower Link</A><BR>
+				<LI><OBJECT type="text/sitemap">
+					<param name="Name" value="Type 20: Double Wishbone, Twin Outer Ball Joints">
+					<param name="Local" value="html/shar2c4z.htm">
+					</OBJECT>
+					<A HREF="html/shar2c4z.htm">Type 20: Double Wishbone, Twin Outer Ball Joints</A><BR>
+				<LI><OBJECT type="text/sitemap">
+					<param name="Name" value="Type 21: 5-link Rigid Axle (watts linkage)">
+					<param name="Local" value="html/shar2c8l.htm">
+					</OBJECT>
+					<A HREF="html/shar2c8l.htm">Type 21: 5-link Rigid Axle (watts linkage)</A><BR>
+				<LI><OBJECT type="text/sitemap">
+					<param name="Name" value="Type 22: Double Wishbone, Twin Outer Links, Spring to Front Link">
+					<param name="Local" value="html/shar2c6v.htm">
+					</OBJECT>
+					<A HREF="html/shar2c6v.htm">Type 22: Double Wishbone, Twin Outer Links, Spring to Front Link</A><BR>
+				<LI><OBJECT type="text/sitemap">
+					<param name="Name" value="Type 23: Double Wishbone,  Twin Outer Ball Joints, Anti-Roll Bar">
+					<param name="Local" value="html/shar2c6w.htm">
+					</OBJECT>
+					<A HREF="html/shar2c6w.htm">Type 23: Double Wishbone,  Twin Outer Ball Joints, Anti-Roll Bar</A><BR>
+				<LI><OBJECT type="text/sitemap">
+					<param name="Name" value="Type 24: Steerable Macpherson Strut, Twin Outer Ball Joints">
+					<param name="Local" value="html/shar2c6x.htm">
+					</OBJECT>
+					<A HREF="html/shar2c6x.htm">Type 24: Steerable Macpherson Strut, Twin Outer Ball Joints</A><BR>
+				<LI><OBJECT type="text/sitemap">
+					<param name="Name" value="Type 25: Double Wishbone, Twin Lower Outer Ball Joints">
+					<param name="Local" value="html/shar2c8g.htm">
+					</OBJECT>
+					<A HREF="html/shar2c8g.htm">Type 25: Double Wishbone, Twin Lower Outer Ball Joints</A><BR>
+				<LI><OBJECT type="text/sitemap">
+					<param name="Name" value="Type 26: Double Wishbone, Damper to Lower Wishbone, Compliant Rack">
+					<param name="Local" value="html/shar2c8h.htm">
+					</OBJECT>
+					<A HREF="html/shar2c8h.htm">Type 26: Double Wishbone, Damper to Lower Wishbone, Compliant Rack</A><BR>
+				<LI><OBJECT type="text/sitemap">
+					<param name="Name" value="Type 27: Steerable Macpherson Strut, twin lower link">
+					<param name="Local" value="html/shar2c8m.htm">
+					</OBJECT>
+					<A HREF="html/shar2c8m.htm">Type 27: Steerable Macpherson Strut, twin lower link</A><BR>
+				<LI><OBJECT type="text/sitemap">
+					<param name="Name" value="Type 28: 4-Link Rear, transverse control link">
+					<param name="Local" value="html/shar2c8n.htm">
+					</OBJECT>
+					<A HREF="html/shar2c8n.htm">Type 28: 4-Link Rear, transverse control link</A><BR>
+				<LI><OBJECT type="text/sitemap">
+					<param name="Name" value="Type 29: Twist Beam - twin wheel">
+					<param name="Local" value="html/shar2c8o.htm">
+					</OBJECT>
+					<A HREF="html/shar2c8o.htm">Type 29: Twist Beam - twin wheel</A><BR>
+			</UL>
+			<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="3D SolverTolerances">
+				<param name="Local" value="html/shar2c50.htm">
+				</OBJECT>
+				<A HREF="html/shar2c50.htm">3D SolverTolerances</A><BR>
+			<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="3D General Defaults">
+				<param name="Local" value="html/shar2c51.htm">
+				</OBJECT>
+				<A HREF="html/shar2c51.htm">3D General Defaults</A><BR>
+			<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="Deformed Geometery Scalar">
+				<param name="Local" value="html/shar2c52.htm">
+				</OBJECT>
+				<A HREF="html/shar2c52.htm">Deformed Geometery Scalar</A><BR>
+			<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="Deformed Geometry Positon">
+				<param name="Local" value="html/shar2c53.htm">
+				</OBJECT>
+				<A HREF="html/shar2c53.htm">Deformed Geometry Positon</A><BR>
+			<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="Enhanced Graphics Sizes">
+				<param name="Local" value="html/shar2c54.htm">
+				</OBJECT>
+				<A HREF="html/shar2c54.htm">Enhanced Graphics Sizes</A><BR>
+			<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="Graphics Label Sizes">
+				<param name="Local" value="html/shar2c55.htm">
+				</OBJECT>
+				<A HREF="html/shar2c55.htm">Graphics Label Sizes</A><BR>
+			<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="Compliance Graphic Sizes">
+				<param name="Local" value="html/shar2c6o.htm">
+				</OBJECT>
+				<A HREF="html/shar2c6o.htm">Compliance Graphic Sizes</A><BR>
+			<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="Graphs Marker and Text Sizes">
+				<param name="Local" value="html/shar2c6p.htm">
+				</OBJECT>
+				<A HREF="html/shar2c6p.htm">Graphs Marker and Text Sizes</A><BR>
+			<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="Graphs Decimal Points Display">
+				<param name="Local" value="html/shar2c6q.htm">
+				</OBJECT>
+				<A HREF="html/shar2c6q.htm">Graphs Decimal Points Display</A><BR>
+			<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="3D Point Tolerances">
+				<param name="Local" value="html/shar2c6r.htm">
+				</OBJECT>
+				<A HREF="html/shar2c6r.htm">3D Point Tolerances</A><BR>
+			<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="3D General Compliance Data">
+				<param name="Local" value="html/shar2c6t.htm">
+				</OBJECT>
+				<A HREF="html/shar2c6t.htm">3D General Compliance Data</A><BR>
+			<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="3D User Definable Templates">
+				<param name="Local" value="html/shar2c6u.htm">
+				</OBJECT>
+				<A HREF="html/shar2c6u.htm">3D User Definable Templates</A><BR>
+			<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="Control Elements and Actuators">
+				<param name="Local" value="html/shar2cac.htm">
+				</OBJECT>
+				<A HREF="html/shar2cac.htm">Control Elements and Actuators</A><BR>
+			<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="Body C of G Properties">
+				<param name="Local" value="html/shar2cad.htm">
+				</OBJECT>
+				<A HREF="html/shar2cad.htm">Body C of G Properties</A><BR>
+			<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="Graphical Element Properties">
+				<param name="Local" value="html/shar2cae.htm">
+				</OBJECT>
+				<A HREF="html/shar2cae.htm">Graphical Element Properties</A><BR>
+			<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="3D Bump Stop Data">
+				<param name="Local" value="html/shar2caf.htm">
+				</OBJECT>
+				<A HREF="html/shar2caf.htm">3D Bump Stop Data</A><BR>
+			<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="Local Co-ordinate Systems">
+				<param name="Local" value="html/shar2cag.htm">
+				</OBJECT>
+				<A HREF="html/shar2cag.htm">Local Co-ordinate Systems</A><BR>
+		</UL>
+	</UL>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="Results Descriptions">
+		</OBJECT>
+	<UL>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Introduction">
+			<param name="Local" value="html/shar75yp.htm">
+			</OBJECT>
+			<A HREF="html/shar75yp.htm">Introduction</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="2D Results">
+			<param name="Local" value="html/shar75yq.htm">
+			</OBJECT>
+			<A HREF="html/shar75yq.htm">2D Results</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="3D Suspension Derivatives File">
+			<param name="Local" value="html/shar75yr.htm">
+			</OBJECT>
+			<A HREF="html/shar75yr.htm">3D Suspension Derivatives File</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="3D Points listing">
+			<param name="Local" value="html/shar75ys.htm">
+			</OBJECT>
+			<A HREF="html/shar75ys.htm">3D Points listing</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="3D Compliance Coefficients">
+			<param name="Local" value="html/shar75yt.htm">
+			</OBJECT>
+			<A HREF="html/shar75yt.htm">3D Compliance Coefficients</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="3D Bush Deflections">
+			<param name="Local" value="html/shar75yu.htm">
+			</OBJECT>
+			<A HREF="html/shar75yu.htm">3D Bush Deflections</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="3D Joint/Bush Rotations">
+			<param name="Local" value="html/shar75yv.htm">
+			</OBJECT>
+			<A HREF="html/shar75yv.htm">3D Joint/Bush Rotations</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="3D Bush Forces">
+			<param name="Local" value="html/shar75yw.htm">
+			</OBJECT>
+			<A HREF="html/shar75yw.htm">3D Bush Forces</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="AVI File Writing">
+			<param name="Local" value="html/shar75yx.htm">
+			</OBJECT>
+			<A HREF="html/shar75yx.htm">AVI File Writing</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Unsprung Corner Weights">
+			<param name="Local" value="html/shar8lps.htm">
+			</OBJECT>
+			<A HREF="html/shar8lps.htm">Unsprung Corner Weights</A><BR>
+	</UL>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="How To...">
+		</OBJECT>
+	<UL>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Customize SDF Display Settings">
+			<param name="Local" value="html/shar1bap.htm">
+			</OBJECT>
+			<A HREF="html/shar1bap.htm">Customize SDF Display Settings</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Create User Defined Results">
+			<param name="Local" value="html/shar1baq.htm">
+			</OBJECT>
+			<A HREF="html/shar1baq.htm">Create User Defined Results</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Use Controls">
+			<param name="Local" value="html/shar1bar.htm">
+			</OBJECT>
+			<A HREF="html/shar1bar.htm">Use Controls</A><BR>
+	</UL>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="Theory">
+		</OBJECT>
+	<UL>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Definition of Suspension Derivatives">
+			<param name="Local" value="html/shar83n5.htm">
+			</OBJECT>
+			<A HREF="html/shar83n5.htm">Definition of Suspension Derivatives</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="The Two Part Steering Rack Model">
+			<param name="Local" value="html/shar83n6.htm">
+			</OBJECT>
+			<A HREF="html/shar83n6.htm">The Two Part Steering Rack Model</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="The Anti Roll Bar Model">
+			<param name="Local" value="html/shar83n7.htm">
+			</OBJECT>
+			<A HREF="html/shar83n7.htm">The Anti Roll Bar Model</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="The Compliant Hub Model">
+			<param name="Local" value="html/shar83n8.htm">
+			</OBJECT>
+			<A HREF="html/shar83n8.htm">The Compliant Hub Model</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Steering Box Models">
+			<param name="Local" value="html/shar83n9.htm">
+			</OBJECT>
+			<A HREF="html/shar83n9.htm">Steering Box Models</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Leaf Spring Modelling">
+			<param name="Local" value="html/shar83na.htm">
+			</OBJECT>
+			<A HREF="html/shar83na.htm">Leaf Spring Modelling</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="The Slotted Joint">
+			<param name="Local" value="html/shar83nb.htm">
+			</OBJECT>
+			<A HREF="html/shar83nb.htm">The Slotted Joint</A><BR>
+	</UL>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="Appendicies">
+		</OBJECT>
+	<UL>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Batch Commands">
+			<param name="Local" value="html/shar8hwx.htm">
+			</OBJECT>
+			<A HREF="html/shar8hwx.htm">Batch Commands</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Known Issues and Work Rounds">
+			<param name="Local" value="html/shar8hwy.htm">
+			</OBJECT>
+			<A HREF="html/shar8hwy.htm">Known Issues and Work Rounds</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Modes of Operation - Flow Diagram">
+			<param name="Local" value="html/shar8hwz.htm">
+			</OBJECT>
+			<A HREF="html/shar8hwz.htm">Modes of Operation - Flow Diagram</A><BR>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="StartUp Process Order - Flow Diagram">
+			<param name="Local" value="html/shar8hx0.htm">
+			</OBJECT>
+			<A HREF="html/shar8hx0.htm">StartUp Process Order - Flow Diagram</A><BR>
+	</UL>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="Lotus Engineering">
+		</OBJECT>
+	<UL>
+		<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="Lotus Engineering">
+			<param name="Local" value="html/mlot2ju7.htm">
+			</OBJECT>
+			<A HREF="html/mlot2ju7.htm">Lotus Engineering</A><BR>
+	</UL>
+</UL>
+</HTML>

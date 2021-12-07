@@ -1,0 +1,55 @@
+           27
+Anti Roll force coefficient (Fa/Fy)
+([Swing Arm ctr Z {FRONT}]-[TCP Z])/([TCP Y]-[Swing Arm ctr Y {FRONT}])
+Anti Roll (%) - 1g Outer
+(([TCP Y]/([PC of G Height (mm)])-1)*([Swing Arm ctr Z {FRONT}]-[TCP Z])/([TCP Y]-[Swing Arm ctr Y {FRONT}]))*100
+Anti Dive force coefficient (Fa/Fx) -  Outboard torque reaction
+([Swing Arm ctr Z {SIDE}]-[TCP Z])/([Swing Arm ctr X {SIDE}])
+Anti Squat force coefficient (Fa/Fx) - Inboard torque reaction
+([Swing Arm ctr Z {SIDE}]-[HUB Z])/([TCP X][Swing Arm ctr X {SIDE}])
+Anti Roll (%) - 1g Inner
+(([TCP Y]/([PC of G Height (mm)])+1)*([Swing Arm ctr Z {FRONT}]-[TCP Z])/([TCP Y]-[Swing Arm ctr Y {FRONT}]))*100
+Anti Roll (%) - 1.3g Outer
+(([TCP Y]/([PC of G Height (mm)])-1.3)*([Swing Arm ctr Z {FRONT}]-[TCP Z])/([TCP Y]-[Swing Arm ctr Y {FRONT}]))*100
+Anti Roll (%) - 1.3g Inner
+(([TCP Y]/([PC of G Height (mm)])+1.3)*([Swing Arm ctr Z {FRONT}]-[TCP Z])/([TCP Y]-[Swing Arm ctr Y {FRONT}]))*100
+Jounce in roll
+[Damper1 Ratio]*[Damper1 Travel]
+Average AR at 1.3g
+([UAnti Roll (%) - 1.3g Outer]+[UAnti Roll (%) - 1.3g Inner])/2
+Average AR at 1.0g
+([UAnti Roll (%) - 1g Inner]+[UAnti Roll (%) - 1g Outer])/2
+Toe left minus Toe right
+[Toe Angle {SAE}]-[Opp Toe Angle {SAE}]
+Pushrod Force
+[Push rod rocker endFR]
+Ground Force / Pushrod Force
+ABS(([Tyre Vertical Force])/([Push rod rocker endFR]))
+Push Force / Spring Force
+ABS([Push rod rocker endFR]/[Spring1 Force])
+Damper wishbone end Y
+[Damper wishbone endY]
+Damper wishbone end Z
+[Damper wishbone endZ]
+Damper Length
+VMAG(([Damper wishbone endV]-[Damper body endV]))
+Damper wishbone end X
+[Damper wishbone endX]
+droplink wishbone X
+[Roll Bar Attachment 1X]
+droplink wishbone Y
+[Roll Bar Attachment 1Y]
+droplink wishbone Z
+[Roll Bar Attachment 1Z]
+droplink wishbone X 2
+[Roll Bar Attachment 2X]
+droplink wishbone Y 2
+[Roll Bar Attachment 2Y]
+droplink wishbone Z 2
+[Roll Bar Attachment 2Z]
+LMP Pushrod Fx
+[frontS56FX]
+LMP Pushrod Fy
+[frontS56FY]
+LMP Pushrod Fz
+[frontS56FZ]

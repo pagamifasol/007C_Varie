@@ -1,0 +1,989 @@
+           15
+           37
+LMP
+           16
+           61
+           41
+           31
+Lower Wishbone
+            0
+Upper Wishbone
+            0
+Track Rod
+            0
+Upright
+            0
+Lower Wishbone(2)
+            0
+Upper Wishbone(2)
+            0
+Track Rod(2)
+            0
+Upright(2)
+            0
+Drop Link 1
+            0
+Drop Link 2
+            0
+Roll Bar Part 1
+            0
+Roll Bar Part 2
+            0
+Rocker 1
+            0
+Rocker 2
+            0
+Pushrod 1
+            0
+Pushrod 2
+            0
+Lower wishbone front pivot
+Lower wishbone rear pivot
+Lower wishbone outer ball joint
+Upper wishbone front pivot
+Upper wishbone rear pivot
+Upper wishbone outer ball joint
+Damper rocker end
+Damper body end
+Outer track rod ball joint
+Inner track rod ball joint
+Spring body end
+Spring rocker end
+Wheel spindle point
+Wheel centre point
+Part 1 C of G
+Part 2 C of G
+Part 3 C of G
+Part 4 C of G
+Lower wishbone front pivot(2)
+Lower wishbone rear pivot(2)
+Lower wishbone outer ball joint(2)
+Upper wishbone front pivot(2)
+Upper wishbone rear pivot(2)
+Upper wishbone outer ball joint(2)
+Damper rocker end(2)
+Damper body end(2)
+Outer track rod ball joint(2)
+Inner track rod ball joint(2)
+Spring body end(2)
+Spring rocker point(2)
+Wheel spindle point(2)
+Wheel centre point(2)
+Part 1 C of G(2)
+Part 2 C of G(2)
+Part 3 C of G(2)
+Part 4 C of G(2)
+Roll Bar Attachment 1
+Roll Bar Attachment 2
+Roll Bar to Link1
+Roll Bar to Link2
+Roll Bar Mount 1
+Roll Bar Mount 2
+Roll Bar Revolute
+Drop Link 1 C of G
+Drop Link 2 C of G
+Roll Bar 1 C of G
+Roll Bar 2 C of G
+Spring 3 to rocker 1
+Spring 3 to rocker 2
+Pushrod to rocker 1
+Pushrod to rocker 2
+Rocker 1 pivot 1
+Rocker 1 pivot 2
+Rocker 2 pivot 1
+Rocker 2 pivot 2
+Pushrod to upright 1
+Pushrod to upright 2
+Push 1 CoG
+Push 2 CoG
+Rocker 1 CoG
+Rocker 2 CoG
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+Not Defined
+            0           0           1          -1           1           0           0           0           0
+            0           0           0           0           0           0          19           0           0
+1
+            0           0           1          -1           2           0           0           0           0
+            0           0           0           0           0           0          20           0           0
+2
+            0           1           1           4           3           1           2           0           6
+            9           0           9           0           0           0          21           0           0
+3
+            0           0           2          -1           4           0           0           0           0
+            0           0           0           0           0           0          22           0           0
+4
+            0           0           2          -1           5           0           0           0           0
+            0           0           0           0           0           0          23           0           0
+5
+            0           1           2           4           6           4           5           0           3
+            9           0           8           0           0           0          24           0           0
+6
+            0           2          13           0          28          50          52          53           0
+            0           0           4           0           0           0          25           0           0
+7
+            0           0          -1           0          29           0           0           0           0
+            0           0           5           0           0           0          26           0           0
+8
+            0           1           3           4           8          10           0           0           3
+            6           0           0           0           0           0          27           0           0
+9
+            0           0           3          -1           7           0           0           0           0
+            0           0           3           0           0           0          28           0           0
+10
+            0           0          -1           0          30           0           0           0           0
+            0           0           7           0           0           0          29           0           0
+11
+            0           2          13           0          31          50          52          53           0
+            0           0           6           0           0           0          30           0           0
+12
+            0           5           4           0           0           3           9          14           0
+            0           0           2           0           0           0          31           0           0
+13
+            0           3           4           0           0           3           6           9           0
+            0           0           1           0           0           0          32           0           0
+14
+            0           2           1           0           0           1           2           3           0
+            0           0          25           0           0           0          33           0           0
+15
+            0           2           2           0           0           4           5           6           0
+            0           0          25           0           0           0          34           0           0
+16
+            0           7           3           0           0          10           9           0           0
+            0           0          25           0           0           0          35           0           0
+17
+            0           2           4           0           0           3           6           9           0
+            0           0          25           0           0           0          36           0           0
+18
+            0           0           5          -1           9           0           0           0           0
+            0           0           0           0           0           0           1           0           0
+19
+            0           0           5          -1          10           0           0           0           0
+            0           0           0           0           0           0           2           0           0
+20
+            0           1           5           8          11          19          20           0          24
+           27           0          27           0           0           0           3           0           0
+21
+            0           0           6          -1          12           0           0           0           0
+            0           0           0           0           0           0           4           0           0
+22
+            0           0           6          -1          13           0           0           0           0
+            0           0           0           0           0           0           5           0           0
+23
+            0           1           6           8          14          22          23           0          21
+           27           0          26           0           0           0           6           0           0
+24
+            0           2          14           0          32          51          54          55           0
+            0           0          18           0           0           0           7           0           0
+25
+            0           0          -1           0          33           0           0           0           0
+            0           0          19           0           0           0           8           0           0
+26
+            0           1           7           8          16          28           0           0          21
+           24           0           0           0           0           0           9           0           0
+27
+            0           0           7          -1          15           0           0           0           0
+            0           0          33           0           0           0          10           0           0
+28
+            0           0          -1           0          34           0           0           0           0
+            0           0          21           0           0           0          11           0           0
+29
+            0           2          14           0          35          51          54          55           0
+            0           0          20           0           0           0          12           0           0
+30
+            0           5           8           0           0          21          27          32           0
+            0           0          23           0           0           0          13           0           0
+31
+            0           3           8           0           0          21          24          27           0
+            0           0          17           0           0           0          14           0           0
+32
+            0           2           5           0           0          19          20          21           0
+            0           0          25           0           0           0          15           0           0
+33
+            0           2           6           0           0          22          23          24           0
+            0           0          25           0           0           0          16           0           0
+34
+            0           7           7           0           0          28          27           0           0
+            0           0          25           0           0           0          17           0           0
+35
+            0           2           8           0           0          21          24          27           0
+            0           0          25           0           0           0          18           0           0
+36
+            0           2           1           9          17           1           2           3           0
+            0           0          14           0           0           0          38           0           0
+37
+            0           2           5          10          18          19          20          21           0
+            0           0          32           0           0           0          37           0           0
+38
+            0           8           9          11          19          37           0           0          41
+           42           0           0           0           0           0          40           0           0
+39
+            0           8          10          12          20          38           0           0          42
+           41           0           0           0           0           0          39           0           0
+40
+            0           0          11          -1          21           0           0           0           0
+            0           0           0           0           0           0          42           0           0
+41
+            0           0          12          -1          22           0           0           0           0
+            0           0           0           0           0           0          41           0           0
+42
+            0           9          11          12          23           0           0           0           0
+            0           0          34           0           0           0           0           0           0
+43
+            0           7           9           0           0          37          39           0           0
+            0           0          25           0           0           0          45           0           0
+44
+            0           7          10           0           0          38          40           0           0
+            0           0          25           0           0           0          44           0           0
+45
+            0           2          11           0           0          39          41          43           0
+            0           0          25           0           0           0          47           0           0
+46
+            0           2          12           0           0          40          42          43           0
+            0           0          25           0           0           0          46           0           0
+47
+            0           2          13           0          40          50          52          53           0
+            0           0          77           0           0           0           0           0           0
+48
+            0           2          14           0          41          51          54          55           0
+            0           0          78           0           0           0          48           0           0
+49
+            0           8          15          13          38          56           0           0          52
+           53           0           0           0           0           0           0           0           0
+50
+            0           8          16          14          39          57           0           0          54
+           55           0           0           0           0           0          50           0           0
+51
+            0           0          13          -1          24           0           0           0           0
+            0           0           0           0           0           0           0           0           0
+52
+            0           0          13          -1          25           0           0           0           0
+            0           0           0           0           0           0           0           0           0
+53
+            0           0          14          -1          26           0           0           0           0
+            0           0           0           0           0           0          52           0           0
+54
+            0           0          14          -1          27           0           0           0           0
+            0           0           0           0           0           0          53           0           0
+55
+            0           2           4          15          36           3           6           9           0
+            0           0           0           0           0           0           0           0           0
+56
+            0           2           8          16          37          21          24          27           0
+            0           0           0           0           0           0          56           0           0
+57
+            0           7          15           0           0          50          56           0           0
+            0           0          25           0           0           0           0           0           0
+58
+            0           7          16           0           0          51          57           0           0
+            0           0          25           0           0           0           0           0           0
+59
+            0           2          13           0           0          50          52          53           0
+            0           0          25           0           0           0           0           0           0
+60
+            0           2          14           0           0          51          54          55           0
+            0           0          25           0           0           0           0           0           0
+10
+     -200.000        -373.614         148.186
+      175.000        -406.422         150.286
+     -1.87700        -740.872         149.296
+     -65.0000        -385.425         397.241
+      175.000        -406.422         364.012
+      25.2000        -686.212         406.450
+     -29.0260        -294.070         536.170
+     -29.0260        -9.42300         456.625
+     -96.0270        -706.516         409.374
+     -125.000        -410.000         387.000
+     -29.0260        -9.42300         456.625
+     -29.0260        -294.070         536.170
+      0.00000        -636.191         263.699
+      0.00000        -810.682         269.793
+      0.00000         0.00000         0.00000
+      0.00000         0.00000         0.00000
+      0.00000         0.00000         0.00000
+      0.00000         0.00000         0.00000
+     -200.000         373.614         148.186
+      175.000         406.422         150.286
+     -1.87700         740.872         149.296
+     -65.0000         385.425         397.241
+      175.000         406.422         364.012
+      25.2000         686.212         406.450
+     -29.0260         294.070         536.170
+     -29.0260         9.42300         456.625
+     -96.0270         706.516         409.374
+     -125.000         410.000         387.000
+     -29.0260         9.42300         456.625
+     -29.0260         294.070         536.170
+      0.00000         636.191         263.699
+      0.00000         810.682         269.793
+      0.00000         0.00000         0.00000
+      0.00000         0.00000         0.00000
+      0.00000         0.00000         0.00000
+      0.00000         0.00000         0.00000
+      50.0000        -450.000         150.000
+      50.0000         450.000         150.000
+      50.0000        -450.000         200.000
+      50.0000         450.000         200.000
+      250.000        -400.000         200.000
+      250.000         400.000         200.000
+      250.000         0.00000         200.000
+      0.00000         0.00000         0.00000
+      0.00000         0.00000         0.00000
+      0.00000         0.00000         0.00000
+      0.00000         0.00000         0.00000
+      35.9740        -273.886         533.396
+      35.9740         273.886         533.396
+      15.9740        -319.555         489.986
+      15.9740         319.555         489.986
+     -49.0260        -291.053         453.755
+      35.9740        -291.053         453.755
+     -49.0260         291.053         453.755
+      35.9740         291.053         453.755
+      4.42900        -703.143         208.969
+      4.42900         703.143         208.969
+      0.00000         0.00000         0.00000
+      0.00000         0.00000         0.00000
+      0.00000         0.00000         0.00000
+      0.00000         0.00000         0.00000
+            0           0           0
+ 
+ 
+ 
+            0           0           0
+ 
+ 
+ 
+            0           0           0
+ 
+ 
+ 
+            0           0           0
+ 
+ 
+ 
+            0           0           0
+ 
+ 
+ 
+            0           0           0
+ 
+ 
+ 
+            0           0           0
+ 
+ 
+ 
+            0           0           0
+ 
+ 
+ 
+            0           0           0
+ 
+ 
+ 
+            0           0           0
+ 
+ 
+ 
+            0           0           0
+ 
+ 
+ 
+            0           0           0
+ 
+ 
+ 
+            0           0           0
+ 
+ 
+ 
+            0           0           0
+ 
+ 
+ 
+            0           0           0
+ 
+ 
+ 
+            0           0           0
+ 
+ 
+ 
+            0           0           0
+ 
+ 
+ 
+            0           0           0
+ 
+ 
+ 
+            0           0           0
+ 
+ 
+ 
+            0           0           0
+ 
+ 
+ 
+            0           0           0
+ 
+ 
+ 
+            0           0           0
+ 
+ 
+ 
+            0           0           0
+ 
+ 
+ 
+            0           0           0
+ 
+ 
+ 
+            0           0           0
+ 
+ 
+ 
+            0           0           0
+ 
+ 
+ 
+            0           0           0
+ 
+ 
+ 
+            0           0           0
+ 
+ 
+ 
+            0           0           0
+ 
+ 
+ 
+            0           0           0
+ 
+ 
+ 
+            0           0           0
+ 
+ 
+ 
+            0           0           0
+ 
+ 
+ 
+            0           0           0
+ 
+ 
+ 
+            0           0           0
+ 
+ 
+ 
+            0           0           0
+ 
+ 
+ 
+            0           0           0
+ 
+ 
+ 
+            0           0           0
+ 
+ 
+ 
+            0           0           0
+ 
+ 
+ 
+            0           0           0
+ 
+ 
+ 
+            0           0           0
+ 
+ 
+ 
+            0           0           0
+ 
+ 
+ 
+            0           0           0
+ 
+ 
+ 
+            0           0           0
+ 
+ 
+ 
+            0           0           0
+ 
+ 
+ 
+            0           0           0
+ 
+ 
+ 
+            0           0           0
+ 
+ 
+ 
+            0           0           0
+ 
+ 
+ 
+            0           0           0
+ 
+ 
+ 
+            0           0           0
+ 
+ 
+ 
+            0           0           0
+ 
+ 
+ 
+            0           0           0
+ 
+ 
+ 
+            0           0           0
+ 
+ 
+ 
+            0           0           0
+ 
+ 
+ 
+            0           0           0
+ 
+ 
+ 
+            0           0           0
+ 
+ 
+ 
+            0           0           0
+ 
+ 
+ 
+            0           0           0
+ 
+ 
+ 
+            0           0           0
+ 
+ 
+ 
+            0           0           0
+ 
+ 
+ 
+            0           0           0
+ 
+ 
+ 
+            0           0           0
+ 
+ 
+ 
+ 
+            1           1           3           1           1           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            1           2           3           1           1           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            1           3           6           2           2           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            1           4           6           1           1           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            1           5           6           1           1           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            1           9          13           2           1           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            1           9          10           1           1           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            2           1           2           1           1           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            2           4           5           1           1           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            1          19          21          19          19           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            1          20          21          19          19           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            1          21          24          20          20           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            1          22          24          19          19           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            1          23          24          19          19           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            1          27          31          20          19           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            1          27          28          19          19           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            2          19          20          19          19           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            2          22          23          19          19           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            1          37          39           1           1           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            1          38          40           1           1           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            3          39          41           1           1           0           0           0           0
+      10.0000         30.0000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            3          40          42           1           1           0           0           0           0
+      10.0000         30.0000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            3          41          43           1           1           0           0           0           0
+      10.0000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            3          42          43           1           1           0           0           0           0
+      10.0000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            1          56          13           0           0           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            1          57          31           0           0           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            4          52          53           0           0           0          50           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            4          54          55           0           0           0          51           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            1          50          56           0           0           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            1          51          57           0           0           0           0           0           0
+      0.00000         0.00000         0.00000         0.00000         0.00000         0.00000         0.00000
+ 
+            3          48          49           0           0           0           0           0           0
+      5.00000         10.0000         0.00000         0.00000         0.00000         0.00000         0.00000
+      0.00000         0.00000         0.00000
+      1.00000         1.00000         1.00000
+            1           2           3

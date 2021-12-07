@@ -1,0 +1,18 @@
+Runtime error from program:d:\lotus\lesoft\sharknonvc.exe
+Floating point stack fault
+Floating point stack fault at address 00b33343
+
+ 00b332e0 CELENQ [+0063]
+ 00978a30 POINT_LIST [+24db]
+ 00401000 main [+3a8b8]
+
+eax=00000017   ebx=041b35a4   ecx=00000017
+edx=002a65d0   esi=000078a8   edi=041b8f88
+ebp=041b3288   esp=041b3158   IOPL=0
+ds=002b   es=002b   fs=0053
+gs=002b   cs=0023   ss=002b
+flgs=00010246 [NC EP ZR SN DN NV]
+
+ 00b33343  wait      
+ 00b33344  push     0x100 
+ 00b33349  lea      ecx,[ebp-0x110] 

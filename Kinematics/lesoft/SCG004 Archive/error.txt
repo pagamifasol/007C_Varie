@@ -1,0 +1,18 @@
+Runtime error from program:c:\users\martin.borkowski\desktop\lesoft\sharknonvc_old.exe
+Floating point stack fault
+Floating point stack fault at address 0058b63c
+
+ 00589a70 POINT_LOCATE3D [+1bcc]
+ 00994ae0 UPDATE_STATUS_BAR [+1734]
+ 00401000 main [+3b288]
+
+eax=ffffffff   ebx=00000001   ecx=2dad31d4
+edx=00000037   esi=2dad31d4   edi=2dad31d8
+ebp=2dad2bf0   esp=2dad1c98   IOPL=0
+ds=002b   es=002b   fs=0053
+gs=002b   cs=0023   ss=002b
+flgs=00210202 [NC OP NZ SN DN NV]
+
+ 0058b63c  wait      
+ 0058b63d  dfld     [ebp-0x978] 
+ 0058b643  dfstp    [ebp-0x9b0] 

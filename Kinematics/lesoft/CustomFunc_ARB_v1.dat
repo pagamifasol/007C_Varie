@@ -1,0 +1,9 @@
+            4
+Wheel travel
+[Damper1 Travel]*[Damper1 Ratio]
+ARB link Z travel
+[frontS39Z]
+Motion ratio ARB
+([Damper1 Travel]*[Damper1 Ratio])/([frontS39Z]-210)
+deltaX
+[frontS39X]-100
